@@ -12,3 +12,4 @@
 - **First window**: the first transfer window of the career. Spend at most about 70% of the transfer budget.
 - **Director of Football**: staff role that can negotiate transfers for the manager.
 - **Mid-block**: a compact defensive shape that sits deep-ish and counters on turnover.
+- **Team folder**: a folder under `teams/<team-slug>/` holding one team's profile, squad and research. Our own team's folder also holds the plan and report.

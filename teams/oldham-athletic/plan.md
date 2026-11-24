@@ -1,6 +1,6 @@
 # EA FC 27 Career Mode Plan: Oldham Athletic (Manager)
 
-Settled in a grilling session on 2026-11-24. Facts come from `docs/research/` (community and official sources; see the status column below). Terms are defined in `GLOSSARY.md`.
+Settled in a grilling session on 2026-11-24. Facts come from `research/` in this folder (community and official sources; see the status column below). Terms are defined in the root `GLOSSARY.md`.
 
 ## Decisions
 
@@ -24,7 +24,7 @@ Settled in a grilling session on 2026-11-24. Facts come from `docs/research/` (c
 | Board objective | Promotion | confirmed in game |
 | Loan contracts | End in June (end of season 1) | confirmed in game |
 | Career start | 1 July | confirmed in game |
-| Transfer windows | Summer: 1 July to 31 August. A January window also exists; its dates are unknown | confirmed in game (January dates unknown) |
+| Transfer windows | Summer: 1 July to 31 August. A January window opens 1 January; its closing date is unknown | confirmed in game (January closing date unknown) |
 | Star rating | unknown | unverified |
 
 Squad: 24 players (2 GK, 8 DEF, 11 MID, 3 ATT). Best XI is led by GK Hudson (65) and CB Monthé (64). Four players are flagged as loans on fifacm.com (Delaney, Tahir, Appiah-Forson, Fawunmi). The attribution is probable but needs a visual check in game.
@@ -74,6 +74,6 @@ Order: **coaches and scouts first, Director of Football later.**
 
 ## Open items
 
-- January window dates are still unknown. (Summer window: 1 July to 31 August. The career starts on 1 July, so it is the first window. The loan players leave in June at the end of season 1, so their replacements belong to the next summer window.)
+- The January window opens 1 January; its closing date is still unknown. (Summer window: 1 July to 31 August. The career starts on 1 July, so it is the first window. The loan players leave in June at the end of season 1, so their replacements belong to the next summer window.)
 - Confirm the star rating, other staff roles and costs, and the formation and role lists. These stayed unverified in the research.
 - Fawunmi's POT 74, Tahir's POT 71 and the loan flags come from fifacm.com only.
