@@ -23,7 +23,7 @@ Settled in a grilling session on 2026-11-24. Facts come from `docs/research/` (c
 | Wage budget | €15K/week | confirmed in game |
 | Board objective | Promotion | confirmed in game |
 | Loan contracts | End in June (end of season 1) | confirmed in game |
-| Transfer window | Opens 1 July, closes 31 August; any January window unknown | confirmed in game |
+| Transfer windows | Summer: 1 July to 31 August. A January window also exists; its dates are unknown | confirmed in game (January dates unknown) |
 | Star rating | unknown | unverified |
 
 Squad: 24 players (2 GK, 8 DEF, 11 MID, 3 ATT). Best XI is led by GK Hudson (65) and CB Monthé (64). Four players are flagged as loans on fifacm.com (Delaney, Tahir, Appiah-Forson, Fawunmi). The attribution is probable but needs a visual check in game.
@@ -73,6 +73,6 @@ Order: **coaches and scouts first, Director of Football later.**
 
 ## Open items
 
-- Transfer window: 1 July to 31 August. Whether there is a January window is still unknown. The loan players leave in June, so their replacements can only be signed once the window opens.
+- Transfer windows: summer is 1 July to 31 August, and there is a January window. The January dates and your career start date are still unknown. The loan players leave in June, so their replacements can only be signed once the window opens.
 - Confirm the star rating, other staff roles and costs, and the formation and role lists. These stayed unverified in the research.
 - Fawunmi's POT 74, Tahir's POT 71 and the loan flags come from fifacm.com only.
