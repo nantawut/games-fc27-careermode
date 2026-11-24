@@ -142,6 +142,16 @@ No source lists CDM free agents at League Two level, so no names are given. Norb
 - **Names seen in guides (not confirmed as free agents, wages unknown):** Kennet Eichhorn and Christ Inao Oulaï, listed as young CDM wonderkids in a [Scouted article](https://scoutedftbl.com/ea-fc-27-best-wonderkids-defensive-midfielders-cdm-career-mode/). Do not count on them.
 - **Status:** unverified. Send the top in-game results to rank them against Norburn.
 
+### Wide midfielder (RM / LM) search
+
+No source lists wide-midfield free agents at League Two level, so no names are given. Current wide options: Stevens (LM, 62/65), Drummond (RM, 62/65), Hawkes (LM, 61/63) and Fawunmi (RM, 61/74, loan flag, leaves in June). A signing has to beat Stevens or Drummond, or have clear growth potential.
+
+- **Search in game:** Scouting, then Search Players, Transfer Status set to Free Agents, position RM or LM (also RW or LW if you want wingers), sorted by wage (lowest first).
+- **Filters:** OVR 62 or more, wage 600 or less, pace checked before signing (counter-attacking needs it), and wage-neutral against a sale from the shortlist (Hill or Hammond first).
+- **Not realistic (guides, wages unknown):** the best free wingers in the guides (Fruk 79/84, Luiz Henrique 78/81, Andrés Gómez 73/82) are rated far above the squad, so they will almost certainly demand wages above the 500 to 750 scale. Mathis Albert (LM, 66/88) is a transfer at about €2.7M, over the whole transfer budget. Sources: [Red Bull](https://www.redbull.com/gb-en/ea-sports-fc-27-career-mode-best-free-agents), [Dexerto](https://www.dexerto.com/wikis/ea-fc-27/best-free-agents/), [Keengamer wonderkids](https://www.keengamer.com/articles/guides/ea-sports-fc-27-wonderkids-best-young-players-to-sign-in-career-mode/).
+- **Timing:** FC 27 retires free agents who stay unattached too long, so check the pool early in the summer window.
+- **Status:** unverified. Send the top in-game results (name, position, OVR, POT, age, pace, wage) to rank them.
+
 ### Named target: Angel Yondjo Matah (ST)
 
 - **Recommendation:** sign him as a development prospect if his wage fits, not as a first-team striker upgrade.
