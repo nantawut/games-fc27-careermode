@@ -8,7 +8,7 @@ Settled in a grilling session on 2026-11-24. Facts come from `docs/research/` (c
 |---|---|
 | Style | Realistic play. Smart use of loans and free agents is fine; exploits are out. |
 | Difficulty | **Legendary**, no reloading. |
-| Season-1 target | Play-off push; promotion is the stretch goal. |
+| Season-1 target | **Promotion**, matching the board's objective (raised from a play-off push on 2026-11-24). |
 | 5-year vision | League One stability, funded by trading profit and academy sales. |
 | Tactics | 4-1-4-1, lone striker, counter-attack or compact mid-block. |
 | Matches | Play every league match; sim only early cup rounds. |
@@ -21,8 +21,8 @@ Settled in a grilling session on 2026-11-24. Facts come from `docs/research/` (c
 | Team rating | OVR 62 (ATT 62, MID 61, DEF 62) | community (fifacm.com) |
 | Transfer budget | €1.2M | confirmed in game |
 | Wage budget | €15K/week | confirmed in game |
-| Board objectives | unknown | **verify in game** |
-| Loan contract lengths | unknown | **verify in game** |
+| Board objective | Promotion | confirmed in game |
+| Loan contracts | End in June (end of season 1) | confirmed in game |
 | Transfer-window dates | unknown | **verify in game** |
 | Star rating | unknown | unverified |
 
@@ -73,6 +73,6 @@ Order: **coaches and scouts first, Director of Football later.**
 
 ## Open items
 
-- Fill in the remaining `verify in game` rows: board objectives, loan contract lengths, transfer-window dates.
+- Fill in the remaining `verify in game` row: transfer-window dates.
 - Confirm the star rating, other staff roles and costs, and the formation and role lists. These stayed unverified in the research.
 - Fawunmi's POT 74, Tahir's POT 71 and the loan flags come from fifacm.com only.
