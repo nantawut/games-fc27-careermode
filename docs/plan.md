@@ -23,6 +23,7 @@ Settled in a grilling session on 2026-11-24. Facts come from `docs/research/` (c
 | Wage budget | €15K/week | confirmed in game |
 | Board objective | Promotion | confirmed in game |
 | Loan contracts | End in June (end of season 1) | confirmed in game |
+| Career start | 1 July | confirmed in game |
 | Transfer windows | Summer: 1 July to 31 August. A January window also exists; its dates are unknown | confirmed in game (January dates unknown) |
 | Star rating | unknown | unverified |
 
@@ -73,6 +74,6 @@ Order: **coaches and scouts first, Director of Football later.**
 
 ## Open items
 
-- Transfer windows: summer is 1 July to 31 August, and there is a January window. The January dates and your career start date are still unknown. The loan players leave in June, so their replacements can only be signed once the window opens.
+- January window dates are still unknown. (Summer window: 1 July to 31 August. The career starts on 1 July, so it is the first window. The loan players leave in June at the end of season 1, so their replacements belong to the next summer window.)
 - Confirm the star rating, other staff roles and costs, and the formation and role lists. These stayed unverified in the research.
 - Fawunmi's POT 74, Tahir's POT 71 and the loan flags come from fifacm.com only.
