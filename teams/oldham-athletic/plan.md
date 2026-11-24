@@ -66,6 +66,24 @@ No verified tactic code exists for a 4-1-4-1 counter-attack in Career Mode, so e
 - **Oldham's default code** on fifacm.com is `q4EuLuD&&qG6` (4-4-2, Long Ball, Balanced, line height 50). It is not the plan.
 - **Sources to check for codes:** [FUTWIZ 4-1-4-1](https://www.futwiz.com/fc27/tactics/4-1-4-1), [FIFPlay counter-attack formations](https://www.fifplay.com/fc-27-best-counter-attack-formations/), [FIFAUTEAM custom tactics](https://fifauteam.com/fc-27-custom-tactics-configurations/).
 
+### Player roles (4-1-4-1)
+
+Community roles come from third-party guides, mostly for Ultimate Team, not from EA, and some were written before the latest update. They are unverified for Career Mode, so test each role on the pitch. The Oldham column is a suggestion for the counter-attacking plan, not sourced.
+
+| Position | Community role | Oldham suggestion |
+|---|---|---|
+| GK (Hudson) | Goalkeeper, Defend | Same |
+| CB (Monthé, Daniels) | Defender, Defend | Same |
+| LB / RB (Robson, Sutton) | Fullback, Balanced or Defend (sources conflict) | Start with Defend; the back four has no pace or quality to spare |
+| CDM (Norburn) | Holding, Defend | Same; look for interceptions, defensive awareness, stamina and positioning in a signing |
+| CM (Chilvers, Pett) | Box-to-Box, Balanced | Same; Pett is a sale candidate, so do not build around him |
+| LM / RM (Stevens, Drummond) | Inside Forward (Balanced) or Winger | Start with Winger: counter-attacking needs width and pace; check their pace in game |
+| ST (Kavanagh) | Advanced Forward, Attack | Same; a lone striker has to run the channels |
+
+The same sources suggest a Balanced build-up, a Balanced defensive approach and a line height of about 60 (the plan starts at 50). EA's own notes say no formation dominates.
+
+Sources: [FUT.GG 4-1-4-1](https://www.fut.gg/tactics/4-1-4-1/), [U4GM 4-1-4-1](https://www.u4gm.com/fc-27/blog-fc27-4-1-4-1-tactics-the-best-formation-to-counter-the-meta), [Driffle](https://driffle.com/blog/fc-27-formations-tactics/), [Games.gg](https://games.gg/ea-sports-fc-27/guides/ea-fc-27-best-formations-and-custom-tactics-guide/), [Neal Guides](https://nealguides.com/best-fc-27-formations/).
+
 ## Staff
 
 Order: **coaches and scouts first, Director of Football later.**
