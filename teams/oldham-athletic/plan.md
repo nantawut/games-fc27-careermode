@@ -50,6 +50,22 @@ Do these in order. Spend at most about **70% of the transfer budget**; each sign
 - Style: counter-attack or compact mid-block. The default 4-4-2 with Long Ball build-up is not the plan.
 - Roles and instructions are tuned in game; the FC 27 formation and role lists are community-only, so test them on the pitch.
 
+### Starting settings (hand-entered)
+
+No verified tactic code exists for a 4-1-4-1 counter-attack in Career Mode, so enter these by hand. They come from general community guides written mostly for Ultimate Team, not League Two, so they are unverified starting points to test on the pitch.
+
+| Setting | Start with | Notes |
+|---|---|---|
+| Build-up | Balanced or Counter (undecided; test both) | Oldham's default is Long Ball, which is not the plan |
+| Defensive approach | Balanced | |
+| Defensive line height | 50 | Oldham's default. Raise toward 60 to 70 only if the team is stretched |
+| Holding midfielder | One, in front of the back four | Recruitment priority 2 |
+| Wide midfielders | Players with pace | Counter-attacking needs pace; check the wingers' pace before committing |
+
+- **Importing a code:** Custom Tactics menu, then Import Tactic. Any code found online is community and unverified. Read the in-game prompts first, because Career Mode may treat custom tactics differently.
+- **Oldham's default code** on fifacm.com is `q4EuLuD&&qG6` (4-4-2, Long Ball, Balanced, line height 50). It is not the plan.
+- **Sources to check for codes:** [FUTWIZ 4-1-4-1](https://www.futwiz.com/fc27/tactics/4-1-4-1), [FIFPlay counter-attack formations](https://www.fifplay.com/fc-27-best-counter-attack-formations/), [FIFAUTEAM custom tactics](https://fifauteam.com/fc-27-custom-tactics-configurations/).
+
 ## Staff
 
 Order: **coaches and scouts first, Director of Football later.**
