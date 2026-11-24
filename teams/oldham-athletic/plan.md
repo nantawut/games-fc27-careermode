@@ -84,9 +84,42 @@ Order: **coaches and scouts first, Director of Football later.**
 
 ## Money rules
 
-- **Selling:** sell only for about **1.5× value or more** and only with a replacement already identified. Never sell a starter in the last days of a window without cover.
+- **Selling starters and high-POT players:** sell only for about **1.5× value or more** and only with a replacement already identified. Never sell a starter in the last days of a window without cover.
+- **Selling surplus non-starters:** exempt from the 1.5× test (changed 2026-11-24). Sell at fair value, but only once a replacement or cover exists. Surplus wages cost more than the fee gained by waiting.
 - **Wages:** keep the wage bill at or below **90% of the wage budget** (€13.5K/week). The fifacm.com wage figures sum to about 13.7K/week (unit assumed to be weekly euros, unverified). That is already about 200 over the cap, with about 1.3K/week of room under the full budget. Make every signing wage-neutral or pair it with a departure.
 - **Contracts:** give new deals only to starters and high-resale players. Let the rest run down.
+
+## Free agents and sales
+
+### Free agents to target
+
+No verified free-agent pool exists in any source. The pool is generated in game, so no names are listed. Search the game's free-agent filter for these profiles, and rank candidates by wage first:
+
+| Priority | Position | Look for |
+|---|---|---|
+| 1 | ST | OVR 63 or more, to beat Kavanagh and Fondop (both 62). Wage 600 or less |
+| 2 | CDM | OVR 62 or more. Norburn (63) is the only natural one |
+| 3 | RM / LM / winger | Pace and OVR 62 or more, wage 600 or less |
+| 4 | GK | Any usable OVR (55 or more) on a low wage, as cover only |
+| 5 | CB | Age 24 or under, POT 68 or more, wage 500 |
+
+Every signing must be wage-neutral against a player being sold (see Money rules).
+
+### Sale shortlist
+
+From the fifacm.com squad data (community; no ages or contract lengths on the page). Fees are assumed to be near listed value, which is unverified.
+
+| Player | Pos | OVR/POT | Wage | Value | Why |
+|---|---|---|---|---|---|
+| Fondop | ST | 62/62 | 700 | 325K | Highest wage in his group, no growth. Sell only after a better striker arrives |
+| Scott-Morriss | RB, RM | 62/63 | 600 | 375K | Sutton (62/66, wage 500) covers right-back for less |
+| Hill | CM, RM, RW | 58/63 | 500 | 300K | Surplus midfielder, little upside |
+| Hammond | CM, CAM | 57/65 | 500 | 375K | Surplus midfielder, below starting level |
+| Pett | CM, CDM | 62/65 | 650 | 275K | Poor value for his wage. Sell if a better holding midfielder arrives |
+
+- Selling the first four would cut about 2,300/week, taking the bill from about 13.7K to about 11.4K. The unit and total are unverified, and loan players' wages may not be included.
+- Keep Nevitt (backup striker) until a striker arrives, and keep Wilson (GK 55/65) as backup.
+- The loan players leave in June regardless, so do not count on selling them.
 
 ## Open items
 
