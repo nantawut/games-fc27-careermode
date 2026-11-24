@@ -80,6 +80,16 @@ Order: **coaches and scouts first, Director of Football later.**
 - **Size:** 22 to 24 players, with at least two options per position. Injuries hurt a thin squad most on Legendary.
 - **Rotation:** rotate when fatigue or morale drops.
 - **Youth growth:** give prospects minutes in cup games and easier fixtures. Growth Profiles and Dynamic OVR drive development, and the old Training Plan is gone.
+
+### Development (there is no per-player training in FC 27)
+
+The official Pitch Notes (see `research/`) say the Training Plan is removed except Energy Recovery, and coaches no longer improve attributes directly (they assess Potential only). So there is no training to set for each player. Instead:
+
+- **Match minutes:** the main driver. Give prospects games in cup matches and easier fixtures.
+- **Match fitness and morale:** rotate before fatigue sets in, because both feed Dynamic OVR (form, morale and match fitness).
+- **Energy Recovery:** use it for tired starters before big matches.
+- **Growth Profile:** check each signing's Growth Profile (six types) in game before buying.
+- **Coaches:** hire for accuracy of Potential assessment, not for training.
 - **Loans (Fawunmi POT 74, Tahir POT 71):** use them in year one, build nothing on keeping them, and try a permanent deal only if the price is clearly low.
 
 ## Money rules
@@ -104,6 +114,15 @@ No verified free-agent pool exists in any source. The pool is generated in game,
 | 5 | CB | Age 24 or under, POT 68 or more, wage 500 |
 
 Every signing must be wage-neutral against a player being sold (see Money rules).
+
+### Holding midfielder (CDM) search
+
+No source lists CDM free agents at League Two level, so no names are given. Norburn (CM, CDM, 63/67) is the only natural holding midfielder. Chilvers (62/66), Pett (62/65) and Appiah-Forson (61/65, loan flag) list CDM as a secondary position.
+
+- **Search in game:** Scouting, then Search Players, Transfer Status set to Free Agents, position CDM, sorted by wage (lowest first).
+- **Filters:** OVR 62 or more, wage 600 or less, and wage-neutral against a sale from the shortlist (Pett first if a better holding midfielder arrives).
+- **Names seen in guides (not confirmed as free agents, wages unknown):** Kennet Eichhorn and Christ Inao Oulaï, listed as young CDM wonderkids in a [Scouted article](https://scoutedftbl.com/ea-fc-27-best-wonderkids-defensive-midfielders-cdm-career-mode/). Do not count on them.
+- **Status:** unverified. Send the top in-game results to rank them against Norburn.
 
 ### Named target: Angel Yondjo Matah (ST)
 
