@@ -1,7 +1,7 @@
 # Glossary
 
-- **Transfer budget**: money available for buying players. Starts at about €1.2M for Oldham (community figure, unverified in game). Sales feed it; the exact mechanics are unverified.
-- **Wage budget**: weekly ceiling on the wage bill. Oldham's value is unknown. Keep the bill at or below 90% of it.
+- **Transfer budget**: money available for buying players. Starts at €1.2M for Oldham (confirmed in game). Sales feed it; the exact mechanics are unverified.
+- **Wage budget**: weekly ceiling on the wage bill. Oldham's is €15K/week (confirmed in game). Keep the bill at or below 90% of it.
 - **OVR / POT**: a player's current overall rating and potential rating. POT drives resale value and development.
 - **Dynamic OVR**: FC 27 system where a player's rating changes with form and development.
 - **Growth Profile**: FC 27 profile deciding how a youngster's rating develops.

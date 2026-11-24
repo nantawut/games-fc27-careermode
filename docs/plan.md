@@ -19,8 +19,8 @@ Settled in a grilling session on 2026-11-24. Facts come from `docs/research/` (c
 |---|---|---|
 | League | EFL League Two | official (ea.com) |
 | Team rating | OVR 62 (ATT 62, MID 61, DEF 62) | community (fifacm.com) |
-| Transfer budget | about €1.2M | community; **verify in game** |
-| Wage budget | unknown | **verify in game** |
+| Transfer budget | €1.2M | confirmed in game |
+| Wage budget | €15K/week | confirmed in game |
 | Board objectives | unknown | **verify in game** |
 | Loan contract lengths | unknown | **verify in game** |
 | Transfer-window dates | unknown | **verify in game** |
@@ -68,11 +68,11 @@ Order: **coaches and scouts first, Director of Football later.**
 ## Money rules
 
 - **Selling:** sell only for about **1.5× value or more** and only with a replacement already identified. Never sell a starter in the last days of a window without cover.
-- **Wages:** keep the wage bill at or below **90% of the wage budget**.
+- **Wages:** keep the wage bill at or below **90% of the wage budget** (€13.5K/week). The fifacm.com wage figures sum to about 13.7K/week (unit assumed to be weekly euros, unverified). That is already about 200 over the cap, with about 1.3K/week of room under the full budget. Make every signing wage-neutral or pair it with a departure.
 - **Contracts:** give new deals only to starters and high-resale players. Let the rest run down.
 
 ## Open items
 
-- Fill in the `verify in game` rows in the starting facts.
+- Fill in the remaining `verify in game` rows: board objectives, loan contract lengths, transfer-window dates.
 - Confirm the star rating, other staff roles and costs, and the formation and role lists. These stayed unverified in the research.
 - Fawunmi's POT 74, Tahir's POT 71 and the loan flags come from fifacm.com only.
