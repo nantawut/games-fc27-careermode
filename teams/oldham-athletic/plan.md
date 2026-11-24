@@ -105,6 +105,15 @@ No verified free-agent pool exists in any source. The pool is generated in game,
 
 Every signing must be wage-neutral against a player being sold (see Money rules).
 
+### Named target: Angel Yondjo Matah (ST)
+
+- **Recommendation:** sign him as a development prospect if his wage fits, not as a first-team striker upgrade.
+- **Profile:** striker, OVR 60 / POT 74, age 19. The profile comes from community guides ([Sportsdunia](https://www.sportsdunia.com/esports/ea-fc-27-best-free-agents-in-career-mode) and others, about two months old). Ratings differ between sites, so verify OVR, POT, age and wage in game before signing.
+- **Why him:** he fits the model of young high-POT players on free transfers. POT 74 matches Fawunmi (the highest on the squad) and is well above any striker on the squad (Kavanagh 65, Fondop 62, Nevitt 64). He would also be a resale asset.
+- **Limits:** at OVR 60 he is not an immediate upgrade on Kavanagh or Fondop (both 62), so the first-team striker upgrade (priority 1) must still come from elsewhere.
+- **Conditions to sign (all must hold):** he is a free agent with no fee, his wage is 500 or less (the squad minimum), and the signing is wage-neutral against a sale from the shortlist (Hill or Hammond first).
+- **Status:** unverified. His wage and availability in your save are unknown.
+
 ### Sale shortlist
 
 From the fifacm.com squad data (community; no ages or contract lengths on the page). Fees are assumed to be near listed value, which is unverified.
