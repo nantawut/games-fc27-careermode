@@ -10,7 +10,7 @@ Settled in a grilling session on 2026-11-24. Facts come from `research/` in this
 | Difficulty | **Legendary**, no reloading. |
 | Season-1 target | **Promotion**, matching the board's objective (raised from a play-off push on 2026-11-24). |
 | 5-year vision | League One stability, funded by trading profit and academy sales. |
-| Tactics | **4-2-3-1** (default since 2026-11-25), lone striker, counter-attack or compact mid-block. 4-1-4-1 is the fallback. |
+| Tactics | **4-2-3-1 Wide** (default since 2026-11-25, replacing the standard 4-2-3-1), lone striker, counter-attack or compact mid-block. The standard 4-2-3-1 is the comparison and 4-1-4-1 is the fallback. |
 | Matches | Play every league match; sim only early cup rounds. |
 
 ## Starting facts
@@ -46,7 +46,7 @@ Do these in order. Spend at most about **70% of the transfer budget**; each sign
 
 ## Tactics
 
-- Shape: **4-2-3-1** (default, set 2026-11-25): a double pivot, three behind a lone striker. Our own fit check against the squad is below; the formation and its roles have not been researched or tested.
+- Shape: **4-2-3-1 Wide** (default, set 2026-11-25): a double pivot, a CAM, LM and RM behind a lone striker. The squad fit check is below; the formation is untested.
 - Style: counter-attack or compact mid-block. The default 4-4-2 with Long Ball build-up is not the plan.
 - Roles and instructions are tuned in game; the FC 27 formation and role lists are community-only, so test them on the pitch.
 
@@ -54,7 +54,7 @@ Do these in order. Spend at most about **70% of the transfer budget**; each sign
 
 Built from the community sources and the squad data. No source has Oldham-level evidence, and shape matters less than player quality: a 62-rated side on Legendary cannot be rescued by a formation.
 
-- **Shape:** standard 4-2-3-1 as the default, 4-1-4-1 as the fallback.
+- **Shape:** 4-2-3-1 Wide as the default, the standard 4-2-3-1 as the comparison, 4-1-4-1 as the fallback.
 - **Build-up and line:** Balanced build-up (the community's Counter build-up is only about 15% to 18%, so test it, but start Balanced). Defensive line starts at 50, not the community's 60, because the back four is short on pace and a high line is the bigger risk.
 - **Roles:** Winger (Balanced) on both wings, Advanced Forward at striker, one Deep-Lying Playmaker and one Holding in the double pivot, Playmaker at CAM, Defend on the centre-backs and fullbacks.
 - **Game plan:** sit compact, win the ball, then play quickly to the wingers and the lone striker. The wide players and striker are all about 62, so pace is the thing to check first. If they cannot get away from defenders, counter-attacking will not work and Balanced possession may be safer.
@@ -62,14 +62,14 @@ Built from the community sources and the squad data. No source has Oldham-level 
 
 ### Starting settings (hand-entered)
 
-No verified tactic code exists for a counter-attacking setup in Career Mode, so enter these by hand. The sources below were found for the 4-1-4-1, not the 4-2-3-1, so treat the numbers as even less certain for the new default. They come from general community guides written mostly for Ultimate Team, not League Two, so they are unverified starting points to test on the pitch.
+No verified tactic code exists for a counter-attacking setup in Career Mode, so enter these by hand. The sources below were found for the 4-1-4-1 and the standard 4-2-3-1, not the 4-2-3-1 Wide default, so treat the numbers as even less certain for it. They come from general community guides written mostly for Ultimate Team, not League Two, so they are unverified starting points to test on the pitch.
 
 | Setting | Start with | Notes |
 |---|---|---|
 | Build-up | Balanced or Counter (undecided; test both) | Oldham's default is Long Ball, which is not the plan |
 | Defensive approach | Balanced | |
 | Defensive line height | 50 | Oldham's default. Raise toward 60 to 70 only if the team is stretched |
-| Holding midfielders | Two (double pivot) in the 4-2-3-1; one in the 4-1-4-1 fallback | Recruitment priority 2 |
+| Holding midfielders | Two (double pivot) in the 4-2-3-1 Wide and standard 4-2-3-1; one in the 4-1-4-1 fallback | Recruitment priority 2 |
 | Wide midfielders | Players with pace | Counter-attacking needs pace; check the wingers' pace before committing |
 
 - **Importing a code:** Custom Tactics menu, then Import Tactic. Any code found online is community and unverified. Read the in-game prompts first, because Career Mode may treat custom tactics differently.
@@ -77,26 +77,26 @@ No verified tactic code exists for a counter-attacking setup in Career Mode, so 
 - **Oldham's default code** on fifacm.com is `q4EuLuD&&qG6` (4-4-2, Long Ball, Balanced, line height 50). It is not the plan.
 - **Sources to check for codes:** [FUTWIZ 4-1-4-1](https://www.futwiz.com/fc27/tactics/4-1-4-1), [FIFPlay counter-attack formations](https://www.fifplay.com/fc-27-best-counter-attack-formations/), [FIFAUTEAM custom tactics](https://fifauteam.com/fc-27-custom-tactics-configurations/).
 
-### Default formation: 4-2-3-1 (fit check)
+### Formation history and fit check
 
-4-2-3-1 is the default shape (your choice, 2026-11-25). The earlier default, 4-1-4-1, is now the fallback. This section is my own fit check against the squad data, not sourced, and the formation has not been researched or tested.
+The default has changed twice on 2026-11-25 at your request: 4-1-4-1, then the standard 4-2-3-1, now the **4-2-3-1 Wide**. The 4-1-4-1 is the fallback. This section is my own fit check of the double-pivot shape against the squad data, not sourced, and none of these formations has been tested.
 
 - **Double pivot:** Norburn (CM, CDM, 63/67) plus Chilvers (62/66) or Appiah-Forson (61/65, loan flag), who both list CDM as a secondary position. It needs a second holding midfielder, so the holding-midfielder signing (priority 2) matters more here. A double pivot needs two, not one.
 - **Attacking midfielder:** Payne (CM, CAM, 59/67), Hammond (CM, CAM, 57/65) or Kavanagh (ST, CAM, 62/65). The squad has no natural CAM above 59 apart from Kavanagh, so this slot is the weakest.
-- **Wide players:** Stevens (LM) and Drummond (RM) in the three behind the striker.
+- **Wide players:** Stevens (LM) and Drummond (RM) in the LM and RM slots.
 - **Striker:** Kavanagh, with Fondop and Nevitt as cover.
 - **Fallback to 4-1-4-1:** use it if the second holding midfielder does not arrive, or if the weak attacking-midfield slot costs results. Roles for 4-2-3-1 were not researched; test it in early league games, since EA's own notes say no formation dominates.
 - **Recruitment effect:** the 4-2-3-1 makes a second holding midfielder and a better attacking midfielder more important than in the 4-1-4-1. Recruitment priorities have not been changed; decide whether to add an attacking-midfielder search.
 
-### Variant to test: 4-2-3-1 Wide
+### Default formation: 4-2-3-1 Wide
 
-The default stays the standard 4-2-3-1. The Wide variant is something to test in the first few league games, not a decision. Source: [FUT.GG 4-2-3-1 Wide](https://www.fut.gg/tactics/4-2-3-1-wide/) (Ultimate Team data, unverified for Career Mode). The page was read partly verbatim and partly through a summary.
+This is the default (set 2026-11-25 at your request, replacing the standard 4-2-3-1). It is untested, so judge it over the first ten league games against the standard 4-2-3-1. Source: [FUT.GG 4-2-3-1 Wide](https://www.fut.gg/tactics/4-2-3-1-wide/) (Ultimate Team data, unverified for Career Mode). The page was read partly verbatim and partly through a summary.
 
 - **Difference:** the wide slots are **LM and RM** (Inside Forward, Balanced is the most-used role: 58% LM, 56% RM) instead of the standard shape's LAM and RAM (Shadow Striker). Other positions use the same roles as the standard 4-2-3-1. Settings: Balanced build-up, Balanced defensive line, line height 60, and a shared tactic code `zYLd5D$79xf&`. Only about 3% of community squads use it (the page's #7 formation).
 - **Why it might fit:** Stevens (LM, LW) and Drummond (RM, ST, LM, RW) list LM and RM as natural positions. This is my reasoning; how the game scores out-of-position players is unchecked.
 - **Catch:** Inside Forward pulls wide players inward, but counter-attacking needs width and pace. Use Winger (Balanced), a less common option at 13% to 14% on the page.
 - **Unknown:** the page does not say who the formation suits, so it is not shown to be better than the standard shape.
-- **Decision rule:** keep it only if results or the wide players' in-game ratings in those slots look better than the standard version.
+- **Decision rule:** switch to the standard 4-2-3-1 if results or the wide players' in-game ratings in those slots look worse than the standard version.
 
 #### Squad fit check (checked 2026-11-25)
 
@@ -117,11 +117,11 @@ I checked the Wide setup against the squad data and the earlier read of the FUT.
 - **Result:** every slot has a player listed in that position, and the bench covers most of them (Wilson, Temple, Scott-Morriss, Payne, Appiah-Forson, Hawkes, Hill, Fondop, Nevitt). The standard 4-2-3-1 asks for LAM and RAM, while the wide players list LM and RM, so the Wide version matches their listed positions better. This is my reasoning; how the game scores positions is unchecked.
 - **Cannot confirm:** the squad data has only OVR, POT, value and wage, with no pace, passing or vision. Whether Norburn and Pett pass well enough for Deep-Lying Playmaker, or Stevens and Drummond have the pace the plan needs, is unknown. The page is based on Ultimate Team squads, and whether its shared code imports and behaves the same in Career Mode is unverified. Only about 3% of squads use the shape, which says nothing about how it performs.
 - **Clashes with the plan:** the page's line height is 60, and the plan starts at 50 because the back four is slow. The page's Inside Forward cuts inside, while the plan wants Winger (Balanced) for counter-attacking, so change the wide roles to Winger after importing.
-- **View:** the Wide version fits the squad's positions at least as well as the standard one, so test it first, with Winger on the wings and the line at 50. Compare it with the standard 4-2-3-1 over the first ten league games. The default has not been changed.
+- **View:** the Wide version fits the squad's positions at least as well as the standard one, so it is the default, with Winger on the wings and the line at 50. Compare it with the standard 4-2-3-1 over the first ten league games.
 
-### Player roles (4-2-3-1, default)
+### Player roles (standard 4-2-3-1, the comparison)
 
-Community roles from FUT.GG's most-used role per position (Ultimate Team, not EA, not verified for Career Mode). The page gives no separate LM/RM/LW/RW roles; it lists the two wide attacking slots as one entry. The Oldham column is a suggestion, not sourced. FutWiz's 4-2-3-1 page returned a 403 and was not read.
+These are the standard 4-2-3-1's roles; the Wide default's roles are in the squad fit check table above, and the plan uses Winger (Balanced) for LM and RM. Community roles from FUT.GG's most-used role per position (Ultimate Team, not EA, not verified for Career Mode). The page gives no separate LM/RM/LW/RW roles; it lists the two wide attacking slots as one entry. The Oldham column is a suggestion, not sourced. FutWiz's 4-2-3-1 page returned a 403 and was not read.
 
 | Position | Community role | Oldham suggestion |
 |---|---|---|
@@ -135,9 +135,9 @@ Community roles from FUT.GG's most-used role per position (Ultimate Team, not EA
 
 Source: [FUT.GG 4-2-3-1](https://www.fut.gg/tactics/4-2-3-1/).
 
-### Player roles (4-1-4-1, now the fallback)
+### Player roles (4-1-4-1, the fallback)
 
-These roles were found for the 4-1-4-1, so they apply to the fallback, not the 4-2-3-1 default (whose roles were not researched). Community roles come from third-party guides, mostly for Ultimate Team, not from EA, and some were written before the latest update. They are unverified for Career Mode, so test each role on the pitch. The Oldham column is a suggestion for the counter-attacking plan, not sourced.
+These roles were found for the 4-1-4-1, so they apply to the fallback, not the 4-2-3-1 Wide default. Community roles come from third-party guides, mostly for Ultimate Team, not from EA, and some were written before the latest update. They are unverified for Career Mode, so test each role on the pitch. The Oldham column is a suggestion for the counter-attacking plan, not sourced.
 
 | Position | Community role | Oldham suggestion |
 |---|---|---|

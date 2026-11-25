@@ -60,7 +60,7 @@ details>*{display:block}
 <ul>
 <li><b>Target:</b> promotion in season 1. This matches the board's objective (raised from a play-off push on 2026-11-24).</li>
 <li><b>Money is tight:</b> €1.2M transfer budget and a €15K/week wage budget, both confirmed in game. The squad's wage bill is already about €13.7K/week (derived from community data), so every signing must be wage-neutral or paired with a departure.</li>
-<li><b>Approach:</b> a 4-2-3-1 counter-attacking shape (4-1-4-1 fallback). Recruit a striker, a holding midfielder, wide midfielders, a third goalkeeper and centre-back depth. Prefer young high-POT players, loans and free agents.</li>
+<li><b>Approach:</b> a 4-2-3-1 Wide counter-attacking shape (standard 4-2-3-1 as the comparison, 4-1-4-1 fallback). Recruit a striker, a holding midfielder, wide midfielders, a third goalkeeper and centre-back depth. Prefer young high-POT players, loans and free agents.</li>
 <li><b>Timing:</b> the career starts on 1 July, so the summer window (1 July to 31 August) is the first one. The loan players leave in June at the end of season 1, so their replacements belong to the next summer window. A short January window (1 January to 31 January) gives a second chance to fix problems, sell surplus players and replace injured ones.</li>
 </ul>
 </div>
@@ -87,13 +87,13 @@ details>*{display:block}
 <tr><td>Difficulty</td><td>Legendary, no reloading.</td></tr>
 <tr><td>Season-1 target</td><td>Promotion, matching the board.</td></tr>
 <tr><td>5-year vision</td><td>League One stability, funded by trading profit and academy sales.</td></tr>
-<tr><td>Tactics</td><td><b>4-2-3-1</b> (default since 2026-11-25), lone striker, counter-attack or compact mid-block. 4-1-4-1 is the fallback.</td></tr>
+<tr><td>Tactics</td><td><b>4-2-3-1 Wide</b> (default since 2026-11-25, replacing the standard 4-2-3-1), lone striker, counter-attack or compact mid-block. The standard 4-2-3-1 is the comparison and 4-1-4-1 is the fallback.</td></tr>
 <tr><td>Matches</td><td>Play every league match; sim only early cup rounds.</td></tr>
 </table>
 
-<h3>Best XI: 4-2-3-1 (default)</h3>
+<h3>Best XI: 4-2-3-1 Wide (default)</h3>
 <p>Our own pick from the squad data (derived, community source). Attack is at the top. Pett is a sale candidate if a better holding midfielder arrives, the attacking-midfield slot is the weakest (no natural CAM above 59 apart from Kavanagh), and there is no natural striker upgrade yet, so the second holding midfielder and the striker are gaps to fill.</p>
-<svg class="pitch" viewBox="0 0 680 800" role="img" aria-label="Best XI in a 4-2-3-1: goalkeeper Hudson; back four Robson, Monthé, Daniels, Sutton; double pivot Norburn and Pett; attacking three Stevens, Chilvers, Drummond; striker Kavanagh">
+<svg class="pitch" viewBox="0 0 680 800" role="img" aria-label="Best XI in a 4-2-3-1 Wide: goalkeeper Hudson; back four Robson, Monthé, Daniels, Sutton; double pivot Norburn and Pett; Stevens (LM), Chilvers (CAM), Drummond (RM); striker Kavanagh">
 <rect x="0" y="0" width="680" height="800" rx="10" fill="#2d4632"/>
 <g fill="#33523a"><rect x="20" y="20" width="640" height="107"/><rect x="20" y="234" width="640" height="107"/><rect x="20" y="448" width="640" height="107"/><rect x="20" y="662" width="640" height="118"/></g>
 <g fill="none" stroke="#cfc8b5" stroke-width="2.5" opacity=".75">
@@ -106,7 +106,7 @@ details>*{display:block}
 <text x="340" y="158" text-anchor="middle" class="pn">Kavanagh</text>
 <text x="340" y="176" text-anchor="middle" class="po">OVR 62</text></g>
 <g><circle cx="110" cy="275" r="27" fill="#d9a441" stroke="#1b1a17" stroke-width="3"/>
-<text x="110" y="280" text-anchor="middle" font-size="13" font-weight="800" fill="#1b1a17">LAM</text>
+<text x="110" y="280" text-anchor="middle" font-size="13" font-weight="800" fill="#1b1a17">LM</text>
 <text x="110" y="323" text-anchor="middle" class="pn">Stevens</text>
 <text x="110" y="341" text-anchor="middle" class="po">OVR 62</text></g>
 <g><circle cx="340" cy="275" r="27" fill="#d9a441" stroke="#1b1a17" stroke-width="3"/>
@@ -114,7 +114,7 @@ details>*{display:block}
 <text x="340" y="323" text-anchor="middle" class="pn">Chilvers</text>
 <text x="340" y="341" text-anchor="middle" class="po">OVR 62</text></g>
 <g><circle cx="570" cy="275" r="27" fill="#d9a441" stroke="#1b1a17" stroke-width="3"/>
-<text x="570" y="280" text-anchor="middle" font-size="13" font-weight="800" fill="#1b1a17">RAM</text>
+<text x="570" y="280" text-anchor="middle" font-size="13" font-weight="800" fill="#1b1a17">RM</text>
 <text x="570" y="323" text-anchor="middle" class="pn">Drummond</text>
 <text x="570" y="341" text-anchor="middle" class="po">OVR 62</text></g>
 <g><circle cx="240" cy="440" r="27" fill="#d9a441" stroke="#1b1a17" stroke-width="3"/>
@@ -149,9 +149,9 @@ details>*{display:block}
 <table>
 <tr><th>Line</th><th>Position</th><th>Player</th><th>OVR / POT</th></tr>
 <tr><td>Attack</td><td>ST</td><td>Kavanagh</td><td>62 / 65</td></tr>
-<tr><td rowspan="3">Attacking three</td><td>LAM</td><td>Stevens</td><td>62 / 65</td></tr>
+<tr><td rowspan="3">Attacking three</td><td>LM</td><td>Stevens</td><td>62 / 65</td></tr>
 <tr><td>CAM</td><td>Chilvers</td><td>62 / 66</td></tr>
-<tr><td>RAM</td><td>Drummond</td><td>62 / 65</td></tr>
+<tr><td>RM</td><td>Drummond</td><td>62 / 65</td></tr>
 <tr><td rowspan="2">Double pivot</td><td>CDM</td><td>Norburn</td><td>63 / 67</td></tr>
 <tr><td>CDM</td><td>Pett</td><td>62 / 65</td></tr>
 <tr><td rowspan="4">Defence</td><td>LB</td><td>Robson</td><td>64 / 65</td></tr>
@@ -163,30 +163,30 @@ details>*{display:block}
 <h3>Team tactic summary (my opinion, untested)</h3>
 <p>Built from the community sources and the squad data. No source has Oldham-level evidence, and shape matters less than player quality: a 62-rated side on Legendary cannot be rescued by a formation.</p>
 <ul>
-<li><b>Shape:</b> standard 4-2-3-1 as the default, 4-1-4-1 as the fallback.</li>
+<li><b>Shape:</b> 4-2-3-1 Wide as the default, the standard 4-2-3-1 as the comparison, 4-1-4-1 as the fallback.</li>
 <li><b>Build-up and line:</b> Balanced build-up (the community's Counter build-up is only about 15% to 18%, so test it, but start Balanced). Defensive line starts at 50, not the community's 60, because the back four is short on pace and a high line is the bigger risk.</li>
 <li><b>Roles:</b> Winger (Balanced) on both wings, Advanced Forward at striker, one Deep-Lying Playmaker and one Holding in the double pivot, Playmaker at CAM, Defend on the centre-backs and fullbacks.</li>
 <li><b>Game plan:</b> sit compact, win the ball, then play quickly to the wingers and the lone striker. The wide players and striker are all about 62, so pace is the thing to check first. If they cannot get away from defenders, counter-attacking will not work and Balanced possession may be safer.</li>
 <li><b>Biggest risk:</b> the board wants promotion, and a weak squad plus a high-variance style is a risky mix. Judge the tactic by points after the first ten league games.</li>
 </ul>
-<h3>Default formation: 4-2-3-1 (fit check)</h3>
-<p>4-2-3-1 is the default shape (your choice, 2026-11-25). The earlier default, 4-1-4-1, is now the fallback. This is my own fit check against the squad data, not sourced, and the formation has not been tested.</p>
+<h3>Formation history and fit check</h3>
+<p>The default has changed twice on 2026-11-25 at your request: 4-1-4-1, then the standard 4-2-3-1, now the <b>4-2-3-1 Wide</b>. The 4-1-4-1 is the fallback. This is my own fit check of the double-pivot shape against the squad data, not sourced, and none of these formations has been tested.</p>
 <ul>
 <li><b>Double pivot:</b> Norburn (CM, CDM, 63/67) plus Pett (62/65) or Chilvers (62/66) or Appiah-Forson (61/65, loan flag), who all list CDM as a secondary position. It needs a second holding midfielder, so the holding-midfielder signing (priority 2) matters more. A double pivot needs two, not one.</li>
 <li><b>Attacking midfielder:</b> Chilvers (CM, CAM, CDM, 62/66), Payne (CM, CAM, 59/67) or Hammond (CM, CAM, 57/65). The squad has no natural CAM above 59 apart from Kavanagh, so this slot is the weakest.</li>
-<li><b>Wide players:</b> Stevens (LM) and Drummond (RM) in the three behind the striker. <b>Striker:</b> Kavanagh, with Fondop and Nevitt as cover.</li>
+<li><b>Wide players:</b> Stevens (LM) and Drummond (RM) in the LM and RM slots. <b>Striker:</b> Kavanagh, with Fondop and Nevitt as cover.</li>
 <li><b>Fallback to 4-1-4-1:</b> use it if the second holding midfielder does not arrive, or if the weak attacking-midfield slot costs results. Test in early league games, since EA's own notes say no formation dominates.</li>
 <li><b>Recruitment effect:</b> the 4-2-3-1 makes a second holding midfielder and a better attacking midfielder more important. Recruitment priorities have not been changed.</li>
 <li><b>Community setup (FUT.GG, Ultimate Team data, unverified for Career Mode):</b> Balanced build-up, Balanced defensive line, line height 60 (pros 65), and a shared tactic code <code>sQEWL2e&amp;2qYt</code>. Counter build-up is used by only 18%, so a counter-attack style on this shape is something to test. Part of the page was read through a summary, so check it directly at <a href="https://www.fut.gg/tactics/4-2-3-1/">FUT.GG</a>.</li>
 </ul>
-<h3>Variant to test: 4-2-3-1 Wide</h3>
-<p>The default stays the standard 4-2-3-1. The Wide variant is something to test in the first few league games, not a decision. Source: <a href="https://www.fut.gg/tactics/4-2-3-1-wide/">FUT.GG 4-2-3-1 Wide</a> (Ultimate Team data, unverified for Career Mode). The page was read partly verbatim and partly through a summary.</p>
+<h3>Default formation: 4-2-3-1 Wide</h3>
+<p>This is the default (set 2026-11-25 at your request, replacing the standard 4-2-3-1). It is untested, so judge it over the first ten league games against the standard 4-2-3-1. Source: <a href="https://www.fut.gg/tactics/4-2-3-1-wide/">FUT.GG 4-2-3-1 Wide</a> (Ultimate Team data, unverified for Career Mode). The page was read partly verbatim and partly through a summary.</p>
 <ul>
 <li><b>Difference:</b> the wide slots are <b>LM and RM</b> (Inside Forward, Balanced is the most-used role: 58% LM, 56% RM) instead of the standard shape's LAM and RAM (Shadow Striker). Other positions use the same roles as the standard 4-2-3-1. Settings: Balanced build-up, Balanced defensive line, line height 60, and a shared tactic code <code>zYLd5D$79xf&amp;</code>. Only about 3% of community squads use it (the page's #7 formation).</li>
 <li><b>Why it might fit:</b> Stevens (LM, LW) and Drummond (RM, ST, LM, RW) list LM and RM as natural positions. This is my reasoning; how the game scores out-of-position players is unchecked.</li>
 <li><b>Catch:</b> Inside Forward pulls wide players inward, but counter-attacking needs width and pace. Use Winger (Balanced), a less common option at 13% to 14% on the page.</li>
 <li><b>Unknown:</b> the page does not say who the formation suits, so it is not shown to be better than the standard shape.</li>
-<li><b>Decision rule:</b> keep it only if results or the wide players' in-game ratings in those slots look better than the standard version.</li>
+<li><b>Decision rule:</b> switch to the standard 4-2-3-1 if results or the wide players' in-game ratings in those slots look worse than the standard version.</li>
 </ul>
 <h4>Squad fit check (checked 2026-11-25)</h4>
 <p>I checked the Wide setup against the squad data and the earlier read of the FUT.GG page. That read was partly verbatim and partly through a summary, so the percentages for some positions are unchecked.</p>
@@ -206,10 +206,10 @@ details>*{display:block}
 <li><b>Result:</b> every slot has a player listed in that position, and the bench covers most of them (Wilson, Temple, Scott-Morriss, Payne, Appiah-Forson, Hawkes, Hill, Fondop, Nevitt). The standard 4-2-3-1 asks for LAM and RAM, while the wide players list LM and RM, so the Wide version matches their listed positions better. This is my reasoning; how the game scores positions is unchecked.</li>
 <li><b>Cannot confirm:</b> the squad data has only OVR, POT, value and wage, with no pace, passing or vision. Whether Norburn and Pett pass well enough for Deep-Lying Playmaker, or Stevens and Drummond have the pace the plan needs, is unknown. The page is based on Ultimate Team squads, and whether its shared code imports and behaves the same in Career Mode is unverified. Only about 3% of squads use the shape, which says nothing about how it performs.</li>
 <li><b>Clashes with the plan:</b> the page's line height is 60, and the plan starts at 50 because the back four is slow. The page's Inside Forward cuts inside, while the plan wants Winger (Balanced) for counter-attacking, so change the wide roles to Winger after importing.</li>
-<li><b>View:</b> the Wide version fits the squad's positions at least as well as the standard one, so test it first, with Winger on the wings and the line at 50. Compare it with the standard 4-2-3-1 over the first ten league games. The default has not been changed.</li>
+<li><b>View:</b> the Wide version fits the squad's positions at least as well as the standard one, so it is the default, with Winger on the wings and the line at 50. Compare it with the standard 4-2-3-1 over the first ten league games.</li>
 </ul>
-<h3>Player roles (4-2-3-1, default)</h3>
-<p>Community roles from FUT.GG's most-used role per position (Ultimate Team, not EA, not verified for Career Mode). The page gives no separate LM/RM/LW/RW roles; it lists the two wide attacking slots as one entry. The Oldham column is a suggestion, not sourced. FutWiz's 4-2-3-1 page returned a 403 and was not read.</p>
+<h3>Player roles (standard 4-2-3-1, the comparison)</h3>
+<p>These are the standard 4-2-3-1's roles; the Wide default's roles are in the squad fit check table above, and the plan uses Winger (Balanced) for LM and RM. Community roles from FUT.GG's most-used role per position (Ultimate Team, not EA, not verified for Career Mode). The page gives no separate LM/RM/LW/RW roles; it lists the two wide attacking slots as one entry. The Oldham column is a suggestion, not sourced. FutWiz's 4-2-3-1 page returned a 403 and was not read.</p>
 <table>
 <tr><th>Position</th><th>Community role</th><th>Oldham suggestion</th></tr>
 <tr><td>GK (Hudson)</td><td>Goalkeeper, Defend</td><td>Same</td></tr>
@@ -220,8 +220,8 @@ details>*{display:block}
 <tr><td>CAM (Chilvers)</td><td>Playmaker, Balanced</td><td>Same; Payne (59/67) is the alternative</td></tr>
 <tr><td>ST (Kavanagh)</td><td>Advanced Forward, Attack</td><td>Same</td></tr>
 </table>
-<h3>Player roles (4-1-4-1, now the fallback)</h3>
-<p>These roles were found for the 4-1-4-1, so they apply to the fallback, not the 4-2-3-1 default. Community roles come from third-party guides, mostly for Ultimate Team, not from EA, and some were written before the latest update. They are unverified for Career Mode, so test each role on the pitch. The Oldham column is a suggestion for the counter-attacking plan, not sourced.</p>
+<h3>Player roles (4-1-4-1, the fallback)</h3>
+<p>These roles were found for the 4-1-4-1, so they apply to the fallback, not the 4-2-3-1 Wide default. Community roles come from third-party guides, mostly for Ultimate Team, not from EA, and some were written before the latest update. They are unverified for Career Mode, so test each role on the pitch. The Oldham column is a suggestion for the counter-attacking plan, not sourced.</p>
 <table>
 <tr><th>Position</th><th>Community role</th><th>Oldham suggestion</th></tr>
 <tr><td>GK (Hudson)</td><td>Goalkeeper, Defend</td><td>Same</td></tr>
