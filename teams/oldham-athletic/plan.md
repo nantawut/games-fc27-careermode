@@ -152,6 +152,16 @@ No source lists wide-midfield free agents at League Two level, so no names are g
 - **Timing:** FC 27 retires free agents who stay unattached too long, so check the pool early in the summer window.
 - **Status:** unverified. Send the top in-game results (name, position, OVR, POT, age, pace, wage) to rank them.
 
+### Centre-back (CB) search
+
+No source lists centre-back free agents at League Two level, so no names are given. Current centre-backs: Monthé (64/66) and Daniels (62/67) start; Sutton (RB/CB, 62/66), Temple (57/69) and the loans Delaney (60/63) and Tahir (58/71) cover. The real gap comes in June, when the two loan centre-backs leave. A signing has to beat Daniels (62), or be young with POT 68 or more.
+
+- **Search in game:** Scouting, then Search Players, Transfer Status set to Free Agents, position CB, sorted by potential or by wage (lowest first).
+- **Filters:** age 24 or under, POT 68 or more, wage 500, and wage-neutral against a sale from the shortlist (Hill or Hammond first). Check the Growth Profile before signing.
+- **Not realistic (guides, wages unknown):** Alaba (CB, 80/87) is a free agent in the guides but is rated far above the squad, so he will almost certainly demand wages above the 500 to 750 scale. The young centre-backs in the [Scouted list](https://scoutedftbl.com/ea-fc-27-best-wonderkids-centre-backs-cb-career-mode/) and the [SI ranking](https://www.si.com/soccer/best-young-center-backs-sign-ea-fc-27-career-mode-ranked) (Ordoñez 76/86, Jacquet 77/86, Martín 78/87, Gadou 70/85, Nijstad 70/86) are at clubs and need transfer fees, which is out of reach on a €1.2M budget.
+- **Timing:** FC 27 retires free agents who stay unattached too long, and ratings use Dynamic OVR, so they move with playing time.
+- **Status:** unverified. Send the top in-game results (name, OVR, POT, age, wage, Growth Profile) to rank them against Daniels and Temple.
+
 ### Named target: Angel Yondjo Matah (ST)
 
 - **Recommendation:** sign him as a development prospect if his wage fits, not as a first-team striker upgrade.
