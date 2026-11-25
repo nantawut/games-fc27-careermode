@@ -182,6 +182,17 @@ No source lists goalkeeper free agents at League Two level, so no names are give
 - **Timing:** FC 27 retires free agents who stay unattached too long. The guides are pre-launch or early-access, so ratings and wages may have moved.
 - **Status:** unverified. Send the top in-game results to rank them.
 
+### Striker (ST) search
+
+No source lists striker free agents at League Two level, so no names are given beyond Matah (below). Current strikers: Kavanagh (ST, CAM, 62/65), Fondop (62/62, wage 700), Nevitt (60/64) and Drummond (RM, ST, 62/65). The first-team striker upgrade is recruitment priority 1: a signing has to beat Kavanagh and Fondop.
+
+- **Search in game:** Scouting, then Search Players, Transfer Status set to Free Agents, position ST, sorted by wage (lowest first).
+- **Filters:** OVR 63 or more, pace checked before signing (counter-attacking needs it), and wage-neutral against a sale from the shortlist.
+- **Wage allowance:** the standard cap is a wage of 600 or less. Once Fondop (wage 700, first on the sale shortlist) is sold, a striker earning up to about 700 stays wage-neutral. Sell Fondop only after the replacement arrives.
+- **Keep Nevitt (60/64)** as backup until the signing.
+- **Not realistic (guides, wages unknown):** the top free-agent strikers in the guides (Depay 80 to 82, Banza 80/81, José Manuel López 79/82) are rated far above the squad, so they will almost certainly demand wages above the 500 to 750 scale. Kofane is described as a complete young striker in the [SI ranking](https://www.si.com/soccer/best-young-center-forwards-sign-ea-fc-27-career-mode-ranked), but nothing says he is a free agent or what he earns. Sources: [Red Bull](https://www.redbull.com/gb-en/ea-sports-fc-27-career-mode-best-free-agents), [Dexerto](https://www.dexerto.com/wikis/ea-fc-27/best-free-agents/), [Keengamer](https://www.keengamer.com/articles/guides/best-free-agents-to-sign-in-fc-27-career-mode/). The [Spike free-agent page](https://www.thespike.gg/fifa/ea-fc-27/free-agents) has a striker section worth opening directly for the 62 to 68 range.
+- **Status:** unverified. Send the top in-game results (name, OVR, POT, age, pace, wage) to rank them.
+
 ### Named target: Angel Yondjo Matah (ST)
 
 - **Recommendation:** sign him as a development prospect if his wage fits, not as a first-team striker upgrade.
