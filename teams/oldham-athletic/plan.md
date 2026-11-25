@@ -78,6 +78,16 @@ No verified tactic code exists for a counter-attacking setup in Career Mode, so 
 - **Fallback to 4-1-4-1:** use it if the second holding midfielder does not arrive, or if the weak attacking-midfield slot costs results. Roles for 4-2-3-1 were not researched; test it in early league games, since EA's own notes say no formation dominates.
 - **Recruitment effect:** the 4-2-3-1 makes a second holding midfielder and a better attacking midfielder more important than in the 4-1-4-1. Recruitment priorities have not been changed; decide whether to add an attacking-midfielder search.
 
+### Variant to test: 4-2-3-1 Wide
+
+The default stays the standard 4-2-3-1. The Wide variant is something to test in the first few league games, not a decision. Source: [FUT.GG 4-2-3-1 Wide](https://www.fut.gg/tactics/4-2-3-1-wide/) (Ultimate Team data, unverified for Career Mode). The page was read partly verbatim and partly through a summary.
+
+- **Difference:** the wide slots are **LM and RM** (Inside Forward, Balanced is the most-used role: 58% LM, 56% RM) instead of the standard shape's LAM and RAM (Shadow Striker). Other positions use the same roles as the standard 4-2-3-1. Settings: Balanced build-up, Balanced defensive line, line height 60, and a shared tactic code `zYLd5D$79xf&`. Only about 3% of community squads use it (the page's #7 formation).
+- **Why it might fit:** Stevens (LM, LW) and Drummond (RM, ST, LM, RW) list LM and RM as natural positions. This is my reasoning; how the game scores out-of-position players is unchecked.
+- **Catch:** Inside Forward pulls wide players inward, but counter-attacking needs width and pace. Use Winger (Balanced), a less common option at 13% to 14% on the page.
+- **Unknown:** the page does not say who the formation suits, so it is not shown to be better than the standard shape.
+- **Decision rule:** keep it only if results or the wide players' in-game ratings in those slots look better than the standard version.
+
 ### Player roles (4-2-3-1, default)
 
 Community roles from FUT.GG's most-used role per position (Ultimate Team, not EA, not verified for Career Mode). The page gives no separate LM/RM/LW/RW roles; it lists the two wide attacking slots as one entry. The Oldham column is a suggestion, not sourced. FutWiz's 4-2-3-1 page returned a 403 and was not read.
@@ -211,6 +221,16 @@ No source lists goalkeeper free agents at League Two level, so no names are give
 - **Not realistic (guides, wages unknown):** the young keepers named in the guides (Risser 81/87, Penders 78/86, Restes 78/84, Seimen 72/87, Chevalier 80/84) are at clubs, need fees, and are rated far above Hudson. The free-agent guides' picks are mostly veterans. Sources: [Dexerto](https://www.dexerto.com/wikis/ea-fc-27/best-goalkeepers-with-high-potential/), [SI](https://www.si.com/soccer/best-young-goalkeepers-sign-ea-fc-27-career-mode-ranked), [Scouted](https://scoutedftbl.com/ea-fc-27-best-wonderkids-goalkeepers-gk-career-mode/), [Red Bull](https://www.redbull.com/in-en/ea-fc-27-best-young-goalkeepers).
 - **Timing:** FC 27 retires free agents who stay unattached too long. The guides are pre-launch or early-access, so ratings and wages may have moved.
 - **Status:** unverified. Send the top in-game results to rank them.
+
+### Left-back (LB) search
+
+No source lists left-back free agents at League Two level, so no names are given. Robson (LB, LM, 64/65, wage 750, the squad's highest) is the starter. There is no other natural left-back: Tahir (CB, LB, 58/71) is a loan player who leaves in June, and Sutton is a right-back and centre-back. This is a real cover gap that widens in June, so left-back ranks above the right-back search. Recruitment priorities in the First window list have not been changed.
+
+- **Search in game:** Scouting, then Search Players, Transfer Status set to Free Agents, position LB, sorted by wage (lowest first).
+- **Filters:** OVR 58 or more as cover, age 24 or under for resale, wage 500, and wage-neutral against a sale from the shortlist (Hill or Hammond first).
+- **Not realistic (guides, wages unknown):** Jorge Salinas (72/83) and Yaimar Medina (70/84) in the [Scouted left-back list](https://scoutedftbl.com/ea-fc-27-best-wonderkids-left-backs-lb-career-mode/), and Álex Valle (78/87) in [SI's ranking](https://si.com/soccer/best-young-left-backs-sign-ea-fc-27-career-mode-ranked), are at clubs, not confirmed free agents, and need fees. Nuno Mendes (89/92) is far out of reach. Nothing found covers lower-league left-backs.
+- **Free agents:** per [Keengamer](https://www.keengamer.com/articles/guides/best-free-agents-to-sign-in-fc-27-career-mode/), a free agent costs no fee but still costs wages, a sign-on fee and an agent fee, and FC 27 retires free agents who stay unattached too long.
+- **Status:** unverified. Send the top in-game results (name, OVR, POT, age, pace, wage) to rank them against Robson.
 
 ### Right-back (RB) search
 
