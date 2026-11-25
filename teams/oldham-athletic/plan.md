@@ -98,7 +98,7 @@ Community roles from FUT.GG's most-used role per position (Ultimate Team, not EA
 | CB (Monthé, Daniels) | Defender, Defend | Same |
 | LB / RB (Robson, Sutton) | Fullback, Balanced | Start with Defend: the back four has no pace or quality to spare |
 | CDM pair (Norburn, Pett) | Deep-Lying Playmaker, Build-Up (both) | Try one Deep-Lying Playmaker and one Holding (Defend) for balance; Pett is a sale candidate |
-| LAM / RAM (Stevens, Drummond) | Shadow Striker, Attack | Test Winger as well: counter-attacking needs width and pace |
+| LAM / RAM (Stevens, Drummond) | Shadow Striker, Attack | Start with Winger (Balanced): counter-attacking needs width and pace. Confirm the Winger role is offered for the LAM and RAM slots in game; if not, use the 4-2-3-1 Wide variant (LM and RM). Compare with the community default over a few matches |
 | CAM (Chilvers) | Playmaker, Balanced | Same; Payne (59/67) is the alternative |
 | ST (Kavanagh) | Advanced Forward, Attack | Same |
 
