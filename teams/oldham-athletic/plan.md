@@ -66,6 +66,16 @@ No verified tactic code exists for a 4-1-4-1 counter-attack in Career Mode, so e
 - **Oldham's default code** on fifacm.com is `q4EuLuD&&qG6` (4-4-2, Long Ball, Balanced, line height 50). It is not the plan.
 - **Sources to check for codes:** [FUTWIZ 4-1-4-1](https://www.futwiz.com/fc27/tactics/4-1-4-1), [FIFPlay counter-attack formations](https://www.fifplay.com/fc-27-best-counter-attack-formations/), [FIFAUTEAM custom tactics](https://fifauteam.com/fc-27-custom-tactics-configurations/).
 
+### Fallback formation: 4-2-3-1
+
+The main shape stays 4-1-4-1. The fallback is 4-2-3-1 (your choice; I had suggested 4-4-2, which is not in the plan). This section is my own fit check against the squad data, not sourced, and the formation has not been researched or tested.
+
+- **Double pivot:** Norburn (CM, CDM, 63/67) plus Chilvers (62/66) or Appiah-Forson (61/65, loan flag), who both list CDM as a secondary position. It needs a second holding midfielder, so the holding-midfielder signing (priority 2) matters more here.
+- **Attacking midfielder:** Payne (CM, CAM, 59/67), Hammond (CM, CAM, 57/65) or Kavanagh (ST, CAM, 62/65). The squad has no natural CAM above 59 apart from Kavanagh, so this slot is the weakest.
+- **Wide players:** Stevens and Drummond, as in the 4-1-4-1.
+- **Striker:** Kavanagh, with Fondop and Nevitt as cover.
+- **When to use it:** if the holding midfielder does not arrive, or to add an attacking midfielder behind the striker. Roles for this shape were not researched; test it in early league games before committing, since EA's own notes say no formation dominates.
+
 ### Player roles (4-1-4-1)
 
 Community roles come from third-party guides, mostly for Ultimate Team, not from EA, and some were written before the latest update. They are unverified for Career Mode, so test each role on the pitch. The Oldham column is a suggestion for the counter-attacking plan, not sourced.
@@ -161,6 +171,16 @@ No source lists centre-back free agents at League Two level, so no names are giv
 - **Not realistic (guides, wages unknown):** Alaba (CB, 80/87) is a free agent in the guides but is rated far above the squad, so he will almost certainly demand wages above the 500 to 750 scale. The young centre-backs in the [Scouted list](https://scoutedftbl.com/ea-fc-27-best-wonderkids-centre-backs-cb-career-mode/) and the [SI ranking](https://www.si.com/soccer/best-young-center-backs-sign-ea-fc-27-career-mode-ranked) (Ordoñez 76/86, Jacquet 77/86, Martín 78/87, Gadou 70/85, Nijstad 70/86) are at clubs and need transfer fees, which is out of reach on a €1.2M budget.
 - **Timing:** FC 27 retires free agents who stay unattached too long, and ratings use Dynamic OVR, so they move with playing time.
 - **Status:** unverified. Send the top in-game results (name, OVR, POT, age, wage, Growth Profile) to rank them against Daniels and Temple.
+
+### Goalkeeper (GK) search
+
+No source lists goalkeeper free agents at League Two level, so no names are given. Hudson (65/66) starts and Wilson (GK 55/65) is the backup. The plan needs cover, not a starter: a third keeper with any usable OVR (55 or more) on a low wage, as a free agent or loan.
+
+- **Search in game:** Scouting, then Search Players, Transfer Status set to Free Agents, position GK, sorted by wage (lowest first).
+- **Filters:** wage 500, wage-neutral against a sale from the shortlist (Hill or Hammond first). One guide advises checking the free-agent filter again in the last days of the window to pick up backups.
+- **Not realistic (guides, wages unknown):** the young keepers named in the guides (Risser 81/87, Penders 78/86, Restes 78/84, Seimen 72/87, Chevalier 80/84) are at clubs, need fees, and are rated far above Hudson. The free-agent guides' picks are mostly veterans. Sources: [Dexerto](https://www.dexerto.com/wikis/ea-fc-27/best-goalkeepers-with-high-potential/), [SI](https://www.si.com/soccer/best-young-goalkeepers-sign-ea-fc-27-career-mode-ranked), [Scouted](https://scoutedftbl.com/ea-fc-27-best-wonderkids-goalkeepers-gk-career-mode/), [Red Bull](https://www.redbull.com/in-en/ea-fc-27-best-young-goalkeepers).
+- **Timing:** FC 27 retires free agents who stay unattached too long. The guides are pre-launch or early-access, so ratings and wages may have moved.
+- **Status:** unverified. Send the top in-game results to rank them.
 
 ### Named target: Angel Yondjo Matah (ST)
 
