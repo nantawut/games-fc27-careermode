@@ -170,6 +170,18 @@ No source lists CDM free agents at League Two level, so no names are given. Norb
 - **Names seen in guides (not confirmed as free agents, wages unknown):** Kennet Eichhorn and Christ Inao Oulaï, listed as young CDM wonderkids in a [Scouted article](https://scoutedftbl.com/ea-fc-27-best-wonderkids-defensive-midfielders-cdm-career-mode/). Do not count on them.
 - **Status:** unverified. Send the top in-game results to rank them against Norburn.
 
+### Attacking midfielder (CAM) search
+
+No source lists attacking-midfield free agents at League Two level, so no names are given. The 4-2-3-1 needs a CAM behind the striker. Current options: Chilvers (CM, CAM, CDM, 62/66, wage 600) is the likely starter, with Payne (CM, CAM, CDM, 59/67, wage 500), Hammond (CM, CAM, 57/65, wage 500, on the sale shortlist) and Kavanagh (ST, CAM, 62/65, wage 600) as cover. A signing has to beat Chilvers (62), or be young with POT 68 or more.
+
+- **Priority:** below striker and holding midfielder, about level with wide midfielders. Chilvers already plays the slot at the starters' level (62), so this is a quality upgrade, not a hole. Recruitment priorities in the First window list have not been changed.
+- **Trade-off:** Chilvers is also a candidate for the double pivot. If he moves back to CDM, the CAM slot becomes the weak one (Payne 59).
+- **Search in game:** Scouting, then Search Players, Transfer Status set to Free Agents, position CAM, sorted by wage (lowest first).
+- **Filters:** OVR 62 or more (63 or more for a real upgrade), wage 600 or less, and wage-neutral against a sale from the shortlist (Hill or Hammond first).
+- **Not realistic (guides, wages unknown):** the best free-agent CAMs in the guides (De Arrascaeta 83, Fruk 79/84) are rated far above the squad, so they will almost certainly demand wages above the 500 to 750 scale. Sources: [Red Bull](https://www.redbull.com/gb-en/ea-sports-fc-27-career-mode-best-free-agents), [Dexerto](https://www.dexerto.com/wikis/ea-fc-27/best-free-agents/), [Keengamer](https://www.keengamer.com/articles/guides/best-free-agents-to-sign-in-fc-27-career-mode/).
+- **Role:** the community role for the slot is Playmaker (Balanced), so favour a player with good passing and vision over pace.
+- **Status:** unverified. Send the top in-game results (name, OVR, POT, age, wage) to rank them against Chilvers.
+
 ### Wide midfielder (RM / LM) search
 
 No source lists wide-midfield free agents at League Two level, so no names are given. Current wide options: Stevens (LM, 62/65), Drummond (RM, 62/65), Hawkes (LM, 61/63) and Fawunmi (RM, 61/74, loan flag, leaves in June). A signing has to beat Stevens or Drummond, or have clear growth potential.
