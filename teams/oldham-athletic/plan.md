@@ -98,6 +98,27 @@ The default stays the standard 4-2-3-1. The Wide variant is something to test in
 - **Unknown:** the page does not say who the formation suits, so it is not shown to be better than the standard shape.
 - **Decision rule:** keep it only if results or the wide players' in-game ratings in those slots look better than the standard version.
 
+#### Squad fit check (checked 2026-11-25)
+
+I checked the Wide setup against the squad data and the earlier read of the FUT.GG page. That read was partly verbatim and partly through a summary, so the percentages for some positions are unchecked.
+
+| Slot | FUT.GG role | Oldham player | Natural position? |
+|---|---|---|---|
+| GK | Goalkeeper, Defend | Hudson (65) | Yes |
+| LB | Fullback, Balanced | Robson (64) | Yes |
+| CB, CB | Defender, Defend | Monthé (64), Daniels (62) | Yes |
+| RB | Fullback, Balanced | Sutton (62) | Yes |
+| CDM, CDM | Deep-Lying Playmaker, Build-Up | Norburn (63), Pett (62) | Both list CDM |
+| CAM | Playmaker, Balanced | Chilvers (62) | Lists CAM |
+| LM | Inside Forward, Balanced | Stevens (62) | Yes |
+| RM | Inside Forward, Balanced | Drummond (62) | Yes |
+| ST | Advanced Forward, Attack | Kavanagh (62) | Yes |
+
+- **Result:** every slot has a player listed in that position, and the bench covers most of them (Wilson, Temple, Scott-Morriss, Payne, Appiah-Forson, Hawkes, Hill, Fondop, Nevitt). The standard 4-2-3-1 asks for LAM and RAM, while the wide players list LM and RM, so the Wide version matches their listed positions better. This is my reasoning; how the game scores positions is unchecked.
+- **Cannot confirm:** the squad data has only OVR, POT, value and wage, with no pace, passing or vision. Whether Norburn and Pett pass well enough for Deep-Lying Playmaker, or Stevens and Drummond have the pace the plan needs, is unknown. The page is based on Ultimate Team squads, and whether its shared code imports and behaves the same in Career Mode is unverified. Only about 3% of squads use the shape, which says nothing about how it performs.
+- **Clashes with the plan:** the page's line height is 60, and the plan starts at 50 because the back four is slow. The page's Inside Forward cuts inside, while the plan wants Winger (Balanced) for counter-attacking, so change the wide roles to Winger after importing.
+- **View:** the Wide version fits the squad's positions at least as well as the standard one, so test it first, with Winger on the wings and the line at 50. Compare it with the standard 4-2-3-1 over the first ten league games. The default has not been changed.
+
 ### Player roles (4-2-3-1, default)
 
 Community roles from FUT.GG's most-used role per position (Ultimate Team, not EA, not verified for Career Mode). The page gives no separate LM/RM/LW/RW roles; it lists the two wide attacking slots as one entry. The Oldham column is a suggestion, not sourced. FutWiz's 4-2-3-1 page returned a 403 and was not read.
