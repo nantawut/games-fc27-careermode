@@ -286,6 +286,23 @@ No source lists striker free agents at League Two level, so no names are given b
 - **Wage allowance:** the standard cap is a wage of 600 or less. Once Fondop (wage 700, first on the sale shortlist) is sold, a striker earning up to about 700 stays wage-neutral. Sell Fondop only after the replacement arrives.
 - **Keep Nevitt (60/64)** as backup until the signing.
 - **Not realistic (guides, wages unknown):** the top free-agent strikers in the guides (Depay 80 to 82, Banza 80/81, José Manuel López 79/82) are rated far above the squad, so they will almost certainly demand wages above the 500 to 750 scale. Kofane is described as a complete young striker in the [SI ranking](https://www.si.com/soccer/best-young-center-forwards-sign-ea-fc-27-career-mode-ranked), but nothing says he is a free agent or what he earns. Sources: [Red Bull](https://www.redbull.com/gb-en/ea-sports-fc-27-career-mode-best-free-agents), [Dexerto](https://www.dexerto.com/wikis/ea-fc-27/best-free-agents/), [Keengamer](https://www.keengamer.com/articles/guides/best-free-agents-to-sign-in-fc-27-career-mode/). The [Spike free-agent page](https://www.thespike.gg/fifa/ea-fc-27/free-agents) has a striker section worth opening directly for the 62 to 68 range.
+- **Shortlist from Futship (read 2026-11-25):** men's striker free agents rated 60 to 70 on [Futship's free-agent list](https://www.futship.com/free-agents) (community data, 371 players over 13 pages). Only 6 of the 13 pages were read (1, 9 to 13), so strikers rated 68 to 70 may sit on the unread pages 2 to 8. The table shows market value, not wage, and only one striker's wage was shown. The Spike's page returned a 403.
+
+| Player | Age | OVR/POT | Value | Notes |
+|---|---|---|---|---|
+| A. Alaaeldin | 33 | 67/67 | €250K | Biggest immediate upgrade (+5 on Kavanagh). No resale value |
+| K. Barbarouses | 36 | 66/66 | €80K | Cheapest on value, but 36 |
+| M. Muntari | 32 | 66/66 | €275K | Upgrade, no resale |
+| R. Sananta | 23 | 64/68 | €1.2M | Upgrade plus resale, but his only shown wage is €4.4K |
+| Nguyễn Tiến Linh | 28 | 64/64 | €475K | Small upgrade, no resale |
+| T. Yengi | 25 | 62/67 | €600K | Not an upgrade |
+| Nguyễn Đình Bắc | 21 | 61/74 | €875K | Prospect, like Matah |
+| A. Yondjo Matah | 19 | 60/74 | €925K | Prospect; see the Matah section |
+| Phạm Gia Hưng | 26 | 61/64 | €425K | Not an upgrade |
+| E. Lalrindika | 27 | 60/61 | €275K | Not an upgrade |
+
+- **Check first:** Alaaeldin, Muntari or Barbarouses would beat Kavanagh and Fondop now and are cheap by value, but they suit a year-one promotion push, not the youth-and-resale model. They are one-year fixes that lose value as they age. Sananta fits both goals, but 4.4K would be about 29% of the whole 15K wage budget while squad wages run 500 to 750, so the units may differ between sites: check his real wage in game. Nguyễn Đình Bắc and Matah are development signings, not the upgrade.
+- **Wage is the constraint:** wages do not track OVR closely (Hudson, 65, earns 500), so check each wage in game against the 600 cap, or 700 once Fondop is sold. Several names come from other leagues; whether anything restricts signing them is unchecked.
 - **Status:** unverified. Send the top in-game results (name, OVR, POT, age, pace, wage) to rank them.
 
 ### Named target: Angel Yondjo Matah (ST)
