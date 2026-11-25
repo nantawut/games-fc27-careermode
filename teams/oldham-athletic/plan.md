@@ -10,7 +10,7 @@ Settled in a grilling session on 2026-11-24. Facts come from `research/` in this
 | Difficulty | **Legendary**, no reloading. |
 | Season-1 target | **Promotion**, matching the board's objective (raised from a play-off push on 2026-11-24). |
 | 5-year vision | League One stability, funded by trading profit and academy sales. |
-| Tactics | 4-1-4-1, lone striker, counter-attack or compact mid-block. |
+| Tactics | **4-2-3-1** (default since 2026-11-25), lone striker, counter-attack or compact mid-block. 4-1-4-1 is the fallback. |
 | Matches | Play every league match; sim only early cup rounds. |
 
 ## Starting facts
@@ -36,7 +36,7 @@ Do these in order. Spend at most about **70% of the transfer budget**; each sign
 1. **Check the facts above in game.** Fill in the `verify in game` rows before spending anything.
 2. **Hire staff** (see Staff).
 3. **Recruit by position priority:**
-   1. Striker. The squad has only three attackers, and the 4-1-4-1 uses one.
+   1. Striker. The squad has only three attackers, and the 4-2-3-1 uses one.
    2. Holding midfielder, to anchor the midfield.
    3. Wide midfielders, for counter-attacking width.
    4. Third goalkeeper, as a **free agent or loan**, not a paid transfer.
@@ -46,39 +46,57 @@ Do these in order. Spend at most about **70% of the transfer budget**; each sign
 
 ## Tactics
 
-- Shape: **4-1-4-1**, one striker, one holding midfielder in front of the back four.
+- Shape: **4-2-3-1** (default, set 2026-11-25): a double pivot, three behind a lone striker. Our own fit check against the squad is below; the formation and its roles have not been researched or tested.
 - Style: counter-attack or compact mid-block. The default 4-4-2 with Long Ball build-up is not the plan.
 - Roles and instructions are tuned in game; the FC 27 formation and role lists are community-only, so test them on the pitch.
 
 ### Starting settings (hand-entered)
 
-No verified tactic code exists for a 4-1-4-1 counter-attack in Career Mode, so enter these by hand. They come from general community guides written mostly for Ultimate Team, not League Two, so they are unverified starting points to test on the pitch.
+No verified tactic code exists for a counter-attacking setup in Career Mode, so enter these by hand. The sources below were found for the 4-1-4-1, not the 4-2-3-1, so treat the numbers as even less certain for the new default. They come from general community guides written mostly for Ultimate Team, not League Two, so they are unverified starting points to test on the pitch.
 
 | Setting | Start with | Notes |
 |---|---|---|
 | Build-up | Balanced or Counter (undecided; test both) | Oldham's default is Long Ball, which is not the plan |
 | Defensive approach | Balanced | |
 | Defensive line height | 50 | Oldham's default. Raise toward 60 to 70 only if the team is stretched |
-| Holding midfielder | One, in front of the back four | Recruitment priority 2 |
+| Holding midfielders | Two (double pivot) in the 4-2-3-1; one in the 4-1-4-1 fallback | Recruitment priority 2 |
 | Wide midfielders | Players with pace | Counter-attacking needs pace; check the wingers' pace before committing |
 
 - **Importing a code:** Custom Tactics menu, then Import Tactic. Any code found online is community and unverified. Read the in-game prompts first, because Career Mode may treat custom tactics differently.
+- **FUT.GG's 4-2-3-1 setup** (Ultimate Team data, so unverified for Career Mode): Balanced build-up (46% of community squads, 50% of pros), Balanced defensive line, line height 60 (pros 65), and a shared tactic code `sQEWL2e&2qYt`. The page calls it the meta 4-2-3-1 in EA FC 27. Part of the page was read through a model-extracted summary, so check the numbers on the page itself: [FUT.GG 4-2-3-1](https://www.fut.gg/tactics/4-2-3-1/). Counter build-up is used by only 18%, so a counter-attack style on this shape is something to test, not a given.
 - **Oldham's default code** on fifacm.com is `q4EuLuD&&qG6` (4-4-2, Long Ball, Balanced, line height 50). It is not the plan.
 - **Sources to check for codes:** [FUTWIZ 4-1-4-1](https://www.futwiz.com/fc27/tactics/4-1-4-1), [FIFPlay counter-attack formations](https://www.fifplay.com/fc-27-best-counter-attack-formations/), [FIFAUTEAM custom tactics](https://fifauteam.com/fc-27-custom-tactics-configurations/).
 
-### Fallback formation: 4-2-3-1
+### Default formation: 4-2-3-1 (fit check)
 
-The main shape stays 4-1-4-1. The fallback is 4-2-3-1 (your choice; I had suggested 4-4-2, which is not in the plan). This section is my own fit check against the squad data, not sourced, and the formation has not been researched or tested.
+4-2-3-1 is the default shape (your choice, 2026-11-25). The earlier default, 4-1-4-1, is now the fallback. This section is my own fit check against the squad data, not sourced, and the formation has not been researched or tested.
 
-- **Double pivot:** Norburn (CM, CDM, 63/67) plus Chilvers (62/66) or Appiah-Forson (61/65, loan flag), who both list CDM as a secondary position. It needs a second holding midfielder, so the holding-midfielder signing (priority 2) matters more here.
+- **Double pivot:** Norburn (CM, CDM, 63/67) plus Chilvers (62/66) or Appiah-Forson (61/65, loan flag), who both list CDM as a secondary position. It needs a second holding midfielder, so the holding-midfielder signing (priority 2) matters more here. A double pivot needs two, not one.
 - **Attacking midfielder:** Payne (CM, CAM, 59/67), Hammond (CM, CAM, 57/65) or Kavanagh (ST, CAM, 62/65). The squad has no natural CAM above 59 apart from Kavanagh, so this slot is the weakest.
-- **Wide players:** Stevens and Drummond, as in the 4-1-4-1.
+- **Wide players:** Stevens (LM) and Drummond (RM) in the three behind the striker.
 - **Striker:** Kavanagh, with Fondop and Nevitt as cover.
-- **When to use it:** if the holding midfielder does not arrive, or to add an attacking midfielder behind the striker. Roles for this shape were not researched; test it in early league games before committing, since EA's own notes say no formation dominates.
+- **Fallback to 4-1-4-1:** use it if the second holding midfielder does not arrive, or if the weak attacking-midfield slot costs results. Roles for 4-2-3-1 were not researched; test it in early league games, since EA's own notes say no formation dominates.
+- **Recruitment effect:** the 4-2-3-1 makes a second holding midfielder and a better attacking midfielder more important than in the 4-1-4-1. Recruitment priorities have not been changed; decide whether to add an attacking-midfielder search.
 
-### Player roles (4-1-4-1)
+### Player roles (4-2-3-1, default)
 
-Community roles come from third-party guides, mostly for Ultimate Team, not from EA, and some were written before the latest update. They are unverified for Career Mode, so test each role on the pitch. The Oldham column is a suggestion for the counter-attacking plan, not sourced.
+Community roles from FUT.GG's most-used role per position (Ultimate Team, not EA, not verified for Career Mode). The page gives no separate LM/RM/LW/RW roles; it lists the two wide attacking slots as one entry. The Oldham column is a suggestion, not sourced. FutWiz's 4-2-3-1 page returned a 403 and was not read.
+
+| Position | Community role | Oldham suggestion |
+|---|---|---|
+| GK (Hudson) | Goalkeeper, Defend | Same |
+| CB (Monthé, Daniels) | Defender, Defend | Same |
+| LB / RB (Robson, Sutton) | Fullback, Balanced | Start with Defend: the back four has no pace or quality to spare |
+| CDM pair (Norburn, Pett) | Deep-Lying Playmaker, Build-Up (both) | Try one Deep-Lying Playmaker and one Holding (Defend) for balance; Pett is a sale candidate |
+| LAM / RAM (Stevens, Drummond) | Shadow Striker, Attack | Test Winger as well: counter-attacking needs width and pace |
+| CAM (Chilvers) | Playmaker, Balanced | Same; Payne (59/67) is the alternative |
+| ST (Kavanagh) | Advanced Forward, Attack | Same |
+
+Source: [FUT.GG 4-2-3-1](https://www.fut.gg/tactics/4-2-3-1/).
+
+### Player roles (4-1-4-1, now the fallback)
+
+These roles were found for the 4-1-4-1, so they apply to the fallback, not the 4-2-3-1 default (whose roles were not researched). Community roles come from third-party guides, mostly for Ultimate Team, not from EA, and some were written before the latest update. They are unverified for Career Mode, so test each role on the pitch. The Oldham column is a suggestion for the counter-attacking plan, not sourced.
 
 | Position | Community role | Oldham suggestion |
 |---|---|---|
@@ -181,6 +199,17 @@ No source lists goalkeeper free agents at League Two level, so no names are give
 - **Not realistic (guides, wages unknown):** the young keepers named in the guides (Risser 81/87, Penders 78/86, Restes 78/84, Seimen 72/87, Chevalier 80/84) are at clubs, need fees, and are rated far above Hudson. The free-agent guides' picks are mostly veterans. Sources: [Dexerto](https://www.dexerto.com/wikis/ea-fc-27/best-goalkeepers-with-high-potential/), [SI](https://www.si.com/soccer/best-young-goalkeepers-sign-ea-fc-27-career-mode-ranked), [Scouted](https://scoutedftbl.com/ea-fc-27-best-wonderkids-goalkeepers-gk-career-mode/), [Red Bull](https://www.redbull.com/in-en/ea-fc-27-best-young-goalkeepers).
 - **Timing:** FC 27 retires free agents who stay unattached too long. The guides are pre-launch or early-access, so ratings and wages may have moved.
 - **Status:** unverified. Send the top in-game results to rank them.
+
+### Right-back (RB) search
+
+No source lists right-back free agents at League Two level, so no names are given. Current right-backs: Sutton (RB, CB, 62/66, wage 500) is the likely starter and Scott-Morriss (RB, RM, 62/63, wage 600) is the backup. Right-back is a low-priority signing, below striker, holding midfielder, wide midfielders, goalkeeper and centre-back.
+
+- **Cover gap:** the sale shortlist lists Scott-Morriss because Sutton covers right-back for less. If Scott-Morriss is sold, Sutton is the only natural right-back. Sutton also covers centre-back, so he is cover in two places. A cheap right-back on 500 or less would replace that cover without raising wages.
+- **Search in game:** Scouting, then Search Players, Transfer Status set to Free Agents, position RB, sorted by wage (lowest first).
+- **Filters:** OVR 60 or more, age 24 or under, wage 500, and wage-neutral against a sale from the shortlist (Hill or Hammond first).
+- **Not realistic (guides, wages unknown):** Palestra (78/86), Alberto Costa (78/86), Kayode (81/85) and Acheampong (75/86) are rated far above the squad and are at clubs, not free agents. Semm Renders (62/77) is the lowest-rated name in the [Scouted right-back list](https://scoutedftbl.com/ea-fc-27-best-wonderkids-right-backs-rb-career-mode/) and probably the cheapest, but nothing says he is a free agent or what he earns, so check him in game. See also [SI's young right-back ranking](https://www.si.com/soccer/best-young-right-backs-sign-ea-fc-27-career-mode-ranked). Nothing found covers lower-league right-backs.
+- **Development:** POT is a ceiling. A young player reaches it only with minutes and a squad role he accepts, since Dynamic Potential responds to how you use him.
+- **Status:** unverified. Send the top in-game results (name, OVR, POT, age, pace, wage) to rank them against Sutton.
 
 ### Striker (ST) search
 
