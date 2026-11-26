@@ -286,7 +286,7 @@ No source lists striker free agents at League Two level, so no names are given b
 - **Wage allowance:** the standard cap is a wage of 600 or less. Once Fondop (wage 700, first on the sale shortlist) is sold, a striker earning up to about 700 stays wage-neutral. Sell Fondop only after the replacement arrives.
 - **Keep Nevitt (60/64)** as backup until the signing.
 - **Not realistic (guides, wages unknown):** the top free-agent strikers in the guides (Depay 80 to 82, Banza 80/81, José Manuel López 79/82) are rated far above the squad, so they will almost certainly demand wages above the 500 to 750 scale. Kofane is described as a complete young striker in the [SI ranking](https://www.si.com/soccer/best-young-center-forwards-sign-ea-fc-27-career-mode-ranked), but nothing says he is a free agent or what he earns. Sources: [Red Bull](https://www.redbull.com/gb-en/ea-sports-fc-27-career-mode-best-free-agents), [Dexerto](https://www.dexerto.com/wikis/ea-fc-27/best-free-agents/), [Keengamer](https://www.keengamer.com/articles/guides/best-free-agents-to-sign-in-fc-27-career-mode/). The [Spike free-agent page](https://www.thespike.gg/fifa/ea-fc-27/free-agents) has a striker section worth opening directly for the 62 to 68 range.
-- **Shortlist from Futship (read 2026-11-25):** men's striker free agents rated 60 to 70 on [Futship's free-agent list](https://www.futship.com/free-agents) (community data, 371 players over 13 pages). Only 6 of the 13 pages were read (1, 9 to 13), so strikers rated 68 to 70 may sit on the unread pages 2 to 8. The table shows market value, not wage, and only one striker's wage was shown. The Spike's page returned a 403.
+- **Shortlist from Futship (read 2026-11-25):** men's striker free agents rated 60 to 70 on [Futship's free-agent list](https://www.futship.com/free-agents) (community data, 371 players over 13 pages). All 13 pages were read afterwards, and the strikers rated 68 to 70 are in the shortlists section below. The table shows market value, not wage, and only one striker's wage was shown (see the wage warning below). The Spike's page returned a 403.
 
 | Player | Age | OVR/POT | Value | Notes |
 |---|---|---|---|---|
@@ -302,7 +302,7 @@ No source lists striker free agents at League Two level, so no names are given b
 | E. Lalrindika | 27 | 60/61 | €275K | Not an upgrade |
 
 - **Check first:** Alaaeldin, Muntari or Barbarouses would beat Kavanagh and Fondop now and are cheap by value, but they suit a year-one promotion push, not the youth-and-resale model. They are one-year fixes that lose value as they age. Sananta fits both goals, but 4.4K would be about 29% of the whole 15K wage budget while squad wages run 500 to 750, so the units may differ between sites: check his real wage in game. Nguyễn Đình Bắc and Matah are development signings, not the upgrade.
-- **Wage is the constraint:** wages do not track OVR closely (Hudson, 65, earns 500), so check each wage in game against the 600 cap, or 700 once Fondop is sold. Several names come from other leagues; whether anything restricts signing them is unchecked.
+- **Wage is the constraint:** the squad data shows low wages (Hudson, 65, earns 500), but the free-agent wages Futship shows are far higher and rise with rating (a 64-rated striker, €4.4K), so these players may not fit the 600 cap, or 700 once Fondop is sold. Check each wage in game. Several names come from other leagues; whether anything restricts signing them is unchecked.
 - **Status:** unverified. Send the top in-game results (name, OVR, POT, age, pace, wage) to rank them.
 
 ### Named target: Angel Yondjo Matah (ST)
@@ -329,6 +329,119 @@ From the fifacm.com squad data (community; no ages or contract lengths on the pa
 - Selling the first four would cut about 2,300/week, taking the bill from about 13.7K to about 11.4K. The unit and total are unverified, and loan players' wages may not be included.
 - Keep Nevitt (backup striker) until a striker arrives, and keep Wilson (GK 55/65) as backup.
 - The loan players leave in June regardless, so do not count on selling them.
+
+## Free-agent shortlists by position (Futship, all pages read)
+
+Source: [Futship's free-agent list](https://www.futship.com/free-agents) (community data, FC 27, 371 players over 13 pages). All 13 pages were read on 2026-11-25; the table was complete, with no truncation or summary. Women's rows were excluded. Lists show OVR 58 to 70 (goalkeepers 55 to 70), with a few clear upgrades and prospects per position, not every player. Every row is a free agent, so there is no transfer fee. The table gives market value, not wage.
+
+**Wage warning.** The table has no wage column. Wages appear only for one featured player per page, and they rise steeply with rating: A. Hussein (CB, 58) €2.2K, R. Sananta (ST, 64) €4.4K, J. Geria (RB, 66) €6K, Pedro Miguel (RB, 68) €6K, Nguyễn Xuân Son (ST, 69) €10K, J. Vélez (CAM, 70) €11K, A. Carrillo (CAM, 77) €15K and De Arrascaeta (CAM, 83) €31K. Oldham's squad wages run 500 to 750 and the whole wage budget is €15K a week, so even the lowest wage shown (€2.2K for a 58-rated centre-back) is about three times your highest squad wage. Value is a poor guide to wage: Geria is worth only €200K but earns €6K. If these wages are right and in the same unit, the 600 and 700 caps in this plan would exclude almost every player below, and each signing would need sales to pay for it. The real demand appears when you negotiate in game, so check one cheap player first. The sign-on fee and agent fee are extra.
+
+### Goalkeeper (current: Hudson 65/66, Wilson 55/65)
+
+Cover is the need; a keeper rated 66 or more would beat Hudson.
+
+| Player | Age | OVR/POT | Value | Notes |
+|---|---|---|---|---|
+| N. Argawinata | 29 | 59/60 | €110K | Cheap cover |
+| E. Lako | 26 | 60/63 | €230K | Cover |
+| A. Einarsson | 31 | 63/63 | €140K | Better cover |
+| Nguyễn Filip | 33 | 63/63 | €90K | Cover |
+| M. Córdova | 24 | 63/73 | €550K | Cover plus prospect |
+| A. Duarte | 32 | 66/66 | €200K | Would beat Hudson (65) |
+| P. Szappanos | 35 | 67/67 | €90K | Would beat Hudson, but 35 |
+
+### Centre-back (current: Monthé 64/66, Daniels 62/67)
+
+Has to beat Daniels (62), or be young with POT 68 or more.
+
+| Player | Age | OVR/POT | Value | Notes |
+|---|---|---|---|---|
+| A. Hussein | 22 | 58/70 | €475K | Prospect. Wage shown: €2.2K |
+| R. Ridho | 24 | 63/67 | €750K | Beats Daniels |
+| N. Mason | 29 | 64/64 | €350K | Beats Daniels, no resale |
+| T. Smith | 36 | 64/64 | €50K | Beats Daniels, but 36 |
+| E. Moungam | 20 | 64/73 | €1.6M | Prospect, beats Daniels |
+| Bùi Tiến Dũng | 30 | 66/66 | €425K | Clear upgrade, no resale |
+
+### Left-back (current: Robson 64/65)
+
+No natural cover; a signing is cover, or an upgrade if rated 65 or more.
+
+| Player | Age | OVR/POT | Value | Notes |
+|---|---|---|---|---|
+| Nguyễn Văn Vĩ | 28 | 62/62 | €300K | Cover |
+| Phan Tuấn Tài | 25 | 62/65 | €550K | Cover |
+| R. Mahuta | 23 | 64/70 | €1.1M | Cover plus prospect |
+| S. Pattynama | 27 | 65/66 | €625K | Small upgrade |
+| R. Brady | 34 | 68/68 | €230K | Upgrade (+4), but 34 |
+| Y. Nagatomo | 39 | 68/68 | €50K | Upgrade (+4), but 39 |
+
+### Right-back (current: Sutton 62/66, Scott-Morriss 62/63)
+
+Low priority; useful as cover if Scott-Morriss is sold.
+
+| Player | Age | OVR/POT | Value | Notes |
+|---|---|---|---|---|
+| Phạm Xuân Mạnh | 30 | 62/62 | €200K | Cover |
+| A. Al Oui | 21 | 60/71 | €650K | Prospect |
+| Vũ Văn Thanh | 30 | 66/66 | €425K | Upgrade (+4) |
+| J. Geria | 33 | 66/66 | €200K | Upgrade. Wage shown: €6K |
+| Pedro Miguel | 35 | 68/68 | €150K | Upgrade, also CB. Wage shown: €6K |
+
+### Holding midfielder (CDM) (current: Norburn 63/67)
+
+The second holding midfielder for the double pivot; has to be 62 or more.
+
+| Player | Age | OVR/POT | Value | Notes |
+|---|---|---|---|---|
+| Lê Phạm Thành Long | 30 | 63/63 | €240K | Fits the pivot, no resale |
+| J. Gaber | 24 | 63/72 | €750K | Prospect |
+| D. Nyengue | 24 | 63/69 | €750K | Fits the pivot |
+| Donga | 30 | 65/65 | €325K | Upgrade, no resale |
+| A. Madibo | 29 | 65/65 | €425K | Upgrade, no resale |
+| A. Fathi | 33 | 67/68 | €240K | Clear upgrade, but 33 |
+
+### Attacking midfielder (CM / CAM) (current: Chilvers 62/66)
+
+Has to beat Chilvers (62), or be young with POT 68 or more.
+
+| Player | Age | OVR/POT | Value | Notes |
+|---|---|---|---|---|
+| R. Kambuaya | 30 | 63/63 | €250K | CAM, small upgrade |
+| Nguyễn Hoàng Đức | 28 | 65/65 | €525K | CM, upgrade |
+| M. Al Mannai | 22 | 60/67 | €625K | CAM prospect, not an upgrade |
+| S. Lilipaly | 36 | 66/66 | €80K | CAM, but 36 |
+| G. Sigurðsson | 36 | 69/69 | €140K | CAM, but 36 |
+| G. Kakuta | 35 | 70/70 | €220K | CAM, biggest upgrade, but 35 |
+| J. Vélez | 31 | 70/70 | €725K | CAM (also RM, LW). Wage shown: €11K |
+
+### Wide midfielder / winger (current: Stevens 62/65, Drummond 62/65, Hawkes 61/63)
+
+Has to beat Stevens or Drummond (62), with pace checked.
+
+| Player | Age | OVR/POT | Value | Notes |
+|---|---|---|---|---|
+| B. Putra | 24 | 60/65 | €450K | RW, not an upgrade |
+| R. Vilca | 27 | 64/64 | €550K | RM, small upgrade |
+| R. Oratmangoen | 28 | 65/65 | €525K | LM, upgrade |
+| E. Reijnders | 25 | 65/68 | €950K | LM, upgrade plus resale |
+| Đỗ Hoàng Hên | 32 | 66/66 | €275K | LW, upgrade, but 32 |
+| Al Haydos | 35 | 70/70 | €220K | RM, biggest upgrade, but 35 |
+| L. González | 35 | 70/70 | €230K | RW, biggest upgrade, but 35 |
+| M. Zegarra | 19 | 65/78 | €2.3M | LW prospect, high value |
+
+### Striker, rated 68 to 70 (current: Kavanagh 62/65, Fondop 62/62)
+
+Adds to the 60 to 67 strikers already listed in the Striker search.
+
+| Player | Age | OVR/POT | Value | Notes |
+|---|---|---|---|---|
+| J. Vidales | 34 | 70/70 | €350K | Biggest upgrade, but 34 |
+| F. Mayele | 32 | 70/70 | €575K | Biggest upgrade, no resale |
+| D. Lukács | 30 | 69/69 | €775K | Big upgrade, no resale |
+| Nguyễn Xuân Son | 29 | 69/69 | €975K | Big upgrade. Wage shown: €10K |
+| J. Bolívar | 24 | 68/75 | €2.1M | Upgrade plus resale, high value |
+
 
 ## Open items
 
