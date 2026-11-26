@@ -86,6 +86,23 @@ Built on 2026-11-26 from the Futship shortlists below. Names, ages and values ar
 - **Do not sign** Vélez, Xuân Son, Geria or Pedro Miguel. Their shown wages (€6K to €11K) alone break the cap.
 - **After step 4,** review the squad against two options per position and carry the gaps to January.
 
+### Wage check on the signing order (2026-11-26)
+
+I read the Futship profile page for each first choice that has a table row. The page prints "Wage" in euros with no period (weekly or yearly is not stated). Only these four first choices were checked; the fallbacks and the other shortlist names were not.
+
+| Player | Slot | Futship wage | Contract | Wage freed by paired sale | Fits at face value? |
+|---|---|---|---|---|---|
+| A. Alaaeldin (67) | ST | €8K | 2027 | Fondop 700 | No (about 11x) |
+| Donga (65) | CDM | €5K | 2029 | Pett 650 | No (about 8x) |
+| R. Oratmangoen (65) | LM | €5.2K | 2030 | Scott-Morriss 600 | No (about 9x) |
+| A. Einarsson (63) | GK | €2.7K | 2028 | Hammond 500 | No (about 5x) |
+
+- **At face value the stop rule fails on every first choice.** The four wages sum to about €20.9K, which is more than the whole €15K wage budget. All five planned sales free only about 2,950.
+- **The unit may differ.** Oldham's squad wages (500 to 750 for 58 to 65 rated players) add up to about 13.7K against a 15K budget, so they behave like weekly euros. Futship's figures are 5x to 10x higher for the same rating (Donga 65 earns €5K there; Hudson, also 65, earns 500 at Oldham), and the ratio is not constant, so this is not a simple unit conversion. Whether Futship's wages are what these players will ask for in your save is unknown.
+- **Contract lengths** run to 2027, 2028, 2029 and 2030, so a signing that turns out too expensive is hard to undo.
+- **Consequence:** do not assume any name in the signing order is affordable. Step 0's wage probe decides this. If asked wages are near Futship's, the order has to change: sign the cheapest wage that fixes each gap (the Einarsson-type cover), accept the squad as is for the other slots, and use loans for the rest.
+- **Next check:** probe one player's real wage in game (step 0), then I can re-rank the whole shortlist by the in-game wage scale.
+
 ## January window
 
 Window: **1 to 31 January**. Free agents for January cannot be named in advance: AI clubs sign players after the summer, and unsigned free agents can retire. The Futship list below covers only the first summer.
