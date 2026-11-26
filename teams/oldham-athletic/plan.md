@@ -103,6 +103,33 @@ I read the Futship profile page for each first choice that has a table row. The 
 - **Consequence:** do not assume any name in the signing order is affordable. Step 0's wage probe decides this. If asked wages are near Futship's, the order has to change: sign the cheapest wage that fixes each gap (the Einarsson-type cover), accept the squad as is for the other slots, and use loans for the rest.
 - **Next check:** probe one player's real wage in game (step 0), then I can re-rank the whole shortlist by the in-game wage scale.
 
+#### Fallback wages (same Futship profile check)
+
+| Slot | Player | Age | Wage | Contract |
+|---|---|---|---|---|
+| ST | Muntari 66 | 32 | €6.8K | 2031 |
+| ST | Barbarouses 66 | 36 | €5.2K | 2027 |
+| ST | Sananta 64/68 | 23 | €4.4K | 2029 |
+| ST | Matah 60/74 | 19 | €2.1K | 2029 |
+| ST | Nguyễn Đình Bắc 61/74 | 21 | €2.7K | 2029 |
+| CDM | Madibo 65 | 29 | €5K | 2029 |
+| CDM | Nyengue 63/69 | 24 | €3.4K | 2030 |
+| CDM | Lê Phạm Thành Long 63 | 30 | €4.1K | 2029 |
+| Wide | Vilca (RM) 64 | 27 | €4.6K | 2026 |
+| Wide | Reijnders (LM) 65/68 | 25 | €4.8K | 2029 |
+| Wide | Đỗ Hoàng Hên (LW) 66 | 32 | €6.7K | 2031 |
+| GK | Argawinata 59 | 29 | €1.8K | 2029 |
+| GK | Nguyễn Filip 63 | 33 | €2.7K | 2031 |
+| GK | Córdova 63/73 | 24 | €2K | 2031 |
+| CB | Ridho 63/67 | 24 | €3.4K | 2029 |
+| CB | Hussein 58/70 | 22 | €2.2K | 2026 |
+
+- **None fits at face value.** The cheapest is Argawinata (GK 59) at €1.8K, still about 3.6x the 500 freed by selling Hammond. Same caveat as above: the unit and the in-game ask are unverified.
+- **Best value found:** Córdova (GK, 24, 63/73) asks €2K, less than Einarsson (€2.7K, 63/63) and he is a resale prospect. Prefer him over Einarsson at the goalkeeper step if the in-game ask is similar.
+- **Cheapest per slot:** CDM Nyengue €3.4K (24, 63/69); wide Vilca €4.6K, or Reijnders €4.8K for 65/68 and resale; ST Sananta €4.4K for an upgrade, or Matah €2.1K as a prospect (not an upgrade); CB Ridho €3.4K or Hussein €2.2K.
+- **Cheapest full set for steps 1 to 4** (Sananta, Nyengue, Vilca, Córdova) is about €14.4K at face value, roughly the whole wage budget. If in-game asks match Futship, the plan cannot sign a player for every gap. Pick the one or two that matter most (striker and holding midfielder) and fill the rest with loans or the current squad.
+- **Contracts:** Vilca and Hussein run to 2026, which looks short for a summer signing; check in game.
+
 ## January window
 
 Window: **1 to 31 January**. Free agents for January cannot be named in advance: AI clubs sign players after the summer, and unsigned free agents can retire. The Futship list below covers only the first summer.
