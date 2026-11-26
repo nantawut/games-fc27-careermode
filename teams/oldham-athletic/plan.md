@@ -44,6 +44,48 @@ Do these in order. Spend at most about **70% of the transfer budget**; each sign
 4. **Do not add central midfielders.** The squad already has 11 midfielders.
 5. Prefer **young high-POT players**, loans and free agents. Spend on a paid transfer only for a clear upgrade.
 
+## Signing order (first window)
+
+Built on 2026-11-26 from the Futship shortlists below. Names, ages and values are community data; wages are unknown until you negotiate. Nothing here is verified in game.
+
+**Ground rules**
+
+- **Free agents have no transfer fee.** The "value" column is market value, not a cost, so the 70% (about €840K) cap probably binds only on sign-on and agent fees. **Wages are the real constraint.**
+- **Wage ledger:** the squad is about 200 over the 90% cap (€13.5K/week). Each sale below frees wage room. Sell **after** the replacement signs, never before.
+
+| Sale | Wage freed | Pairs with |
+|---|---|---|
+| Fondop | 700 | Striker |
+| Pett | 650 | Second holding midfielder |
+| Scott-Morriss | 600 | Winger |
+| Hill | 500 | Winger or goalkeeper |
+| Hammond | 500 | Prospect or goalkeeper |
+
+- All five sales free about 2,950, or about 2,750 of real room after the 200 overage.
+- **Stop rule:** if a candidate's wage exceeds the wage freed by its paired sale, skip to the next name on the same line. Do not stretch the cap.
+
+**Steps, in order**
+
+| # | Step | First choice | Fallbacks | Pair with |
+|---|---|---|---|---|
+| 0 | Fill the `verify in game` rows, hire coaches and scouts, then **probe one cheap free agent's wage** (for example Argawinata, GK 59) to learn the real wage scale | n/a | n/a | n/a |
+| 1 | **Striker** (priority 1) | A. Alaaeldin, 33, 67/67 | Muntari 66, Barbarouses 66 (36, cheapest), Sananta 64/68 if his wage fits | Sell Fondop |
+| 2 | **Second holding midfielder** (priority 2) | Donga, 30, 65/65 | Madibo 65, Nyengue 63/69 (24, resale), Lê Phạm Thành Long 63 | Sell Pett |
+| 3 | **Winger** (priority 3) | Oratmangoen (LM), 28, 65/65 | Vilca (RM) 64, Reijnders (LM) 65/68 (resale), Đỗ Hoàng Hên 66 (32) | Sell Scott-Morriss, then Hill |
+| 4 | **Third goalkeeper** (priority 4) | Einarsson, 31, 63/63 | Argawinata 59, Nguyễn Filip 63, Córdova 63/73 (prospect) | Sell Hammond |
+| 5 | **Centre-back depth** (priority 5, optional) | Ridho, 24, 63/67 | Hussein 58/70 (prospect) | Only if room is left |
+| 6 | **Prospect** (optional) | Matah, 19, 60/74, if wage 500 or less | Nguyễn Đình Bắc 61/74 | Only if room is left |
+
+**Notes**
+
+- **Steps 1 and 2 matter most.** Promotion needs the striker and the pivot. If wages let you do only two signings, do these two.
+- **Do step 2 before step 3** because the 4-2-3-1 Wide needs two holding midfielders, and the 4-1-4-1 fallback is the cost of missing one.
+- **Age:** Alaaeldin, Donga and Oratmangoen are one- or two-year fixes with no resale. That is a deliberate trade for the promotion target. Where a young alternative is close (Nyengue, Reijnders), prefer it if the wage is similar.
+- **Skip the low-value paths:** do not add central midfielders (11 already), a left-back, or a right-back (Scott-Morriss leaves, Sutton stays).
+- **Check pace** on every attacker and winger before signing.
+- **Do not sign** Vélez, Xuân Son, Geria or Pedro Miguel. Their shown wages (€6K to €11K) alone break the cap.
+- **After step 4,** review the squad against two options per position and carry the gaps to January.
+
 ## January window
 
 Window: **1 to 31 January**. Free agents for January cannot be named in advance: AI clubs sign players after the summer, and unsigned free agents can retire. The Futship list below covers only the first summer.
