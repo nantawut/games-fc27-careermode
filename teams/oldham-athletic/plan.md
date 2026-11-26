@@ -55,31 +55,39 @@ Rewritten on 2026-11-26 using the Futship wages (see the wage check below). Name
 
 ### Order A: in-game asks are close to the Futship wages (the case to plan for)
 
-At Futship wages the first window can fund **about one signing**, not one per gap. The striker upgrade does not fit at all: the cheapest real upgrade is Sananta (ST 64) at €4.4K.
+Redone on 2026-11-26 around three of the best-value names from the wage checks: **Zegarra** (LW, 19, 65/78, €3.8K), **Moungam** (CB, 20, 64/73, €3.2K) and **Szappanos** (GK, 35, 67, €2.8K).
 
-| # | Step | Detail | Bill after |
-|---|---|---|---|
-| 0 | **Check in game:** one free agent's real wage ask; the real current wage bill; whether the game lets you move transfer budget into the wage budget (unverified, but useful because free agents cost no fee) | | |
-| 1 | **Sell the surplus non-starters first** (exempt from the 1.5x rule, cover exists): Hill (500), Hammond (500), Scott-Morriss (600; Sutton covers right-back) | Frees 1,600 | about €12.1K |
-| 2 | **Sign one player.** Recommended: **D. Nyengue** (CDM, 24, 63/69), asking €3.4K. He is the second pivot player, can replace Pett (sell Pett 650 afterwards) and has resale value | Net +2,750 | about €14.85K |
-| 3 | If the pivot is already fixed or his ask is higher, use the room on **Córdova** (GK, 24, 63/73) at €2K and sell Wilson (500) after | Net +1,500 | about €13.6K |
-| 4 | Fill the other gaps from the current squad, **loans**, and the January list. Do not sell Fondop: no striker is replacing him | | |
+**What the wages allow.** The squad bill is about €13.7K against a €15K budget (90% cap €13.5K), so room is only €1.3K before any sale. The three names cost €9.8K gross, so **they cannot all be signed**; even two would need about 5 surplus sales and leave the squad far below 22. **The window funds one of the three.** Each needs sales first, because the game probably blocks a signing that takes the bill over €15K (unverified).
 
-How the candidates compare (bill after step 1 is about €12.1K):
+| Option | Sales first | Bill after | Squad size | What it gives |
+|---|---|---|---|---|
+| **Zegarra (LM)**, €3.8K | Hill, Hammond, Scott-Morriss, Hawkes, Payne (2,650) | about €14.85K | 20 | +3 on Stevens and Drummond (62); highest resale (POT 78) |
+| **Moungam (CB)**, €3.2K | Hill, Hammond, Scott-Morriss, Payne (2,100) | about €14.8K | 21 | +2 on Daniels (62); resale (POT 73) |
+| **Szappanos (GK)**, €2.8K | Hill, Hammond, Scott-Morriss (1,600), then Wilson (500) after signing | about €14.4K | 21 | +2 on Hudson (65); age 35, no resale |
 
-| Candidate | Wage | Paired sale | Net | Bill after | vs 90% cap (13.5K) | vs budget (15K) |
-|---|---|---|---|---|---|---|
-| Córdova (GK) | €2K | Wilson 500 | +1.5K | 13.6K | 0.1K over | fits |
-| Nyengue (CDM) | €3.4K | Pett 650 | +2.75K | 14.85K | 1.35K over | fits |
-| Ridho (CB) | €3.4K | none | +3.4K | 15.5K | over | over |
-| Sananta (ST) | €4.4K | Fondop 700 | +3.7K | 15.8K | over | over |
-| Reijnders (LM) | €4.8K | none | +4.8K | 16.9K | over | over |
-| Alaaeldin (ST) | €8K | Fondop 700 | +7.3K | 19.4K | over | over |
+All three bills are above the 90% cap (13.5K) by 0.9K to 1.35K and below the €15K budget.
 
-- **Decision for you:** Nyengue means running the wage bill at about 99% of the budget, which breaks the 90% rule in Money rules. Córdova stays within about 1% of the rule but adds no first-team strength (63 against Hudson's 65). I recommend Nyengue, but it is your call.
-- **Cannot afford one signing per gap.** Four signings at the cheapest fitting names (Sananta, Nyengue, Vilca, Córdova) cost about €14.4K gross, nearly the whole budget, before any sale.
-- **The striker slot stays at Kavanagh (62).** Matah (60/74) asks €2.1K and is a prospect, not an upgrade.
-- **Do not sign** Alaaeldin, Muntari, Đỗ Hoàng Hên or Barbarouses at these wages (€5.2K to €8K each).
+**Recommended: Zegarra.**
+- He gives the biggest first-team gain (+3), and the wing is where the counter-attacking plan needs pace.
+- He is the best resale asset by far (POT 78), which fits the five-year vision.
+- Cost per point of OVR gained is lowest (about €1.3K, against €1.6K for Moungam and €1.2K net for Szappanos, who is 35).
+
+**Steps**
+
+| # | Step | Detail |
+|---|---|---|
+| 0 | **Check in game** | One free agent's real wage ask; the real wage bill and **whether it includes the four loan players' wages** (about 500 each, so about 2K, unverified); whether transfer budget can be moved into wages (unverified) |
+| 1 | Sell the five surplus players | Hill, Hammond, Scott-Morriss, Hawkes, Payne. Surplus non-starters are exempt from the 1.5x rule; sell at fair value |
+| 2 | Sign **Zegarra** | Bill about €14.85K. Check his pace and Growth Profile first |
+| 3 | Rebuild depth | The squad is down to 20, below the plan's 22 floor. Fill from loans, and keep the last wage room for one cheap cover signing if the in-game wage scale allows it |
+| 4 | Leave the rest | Striker stays Kavanagh (62), keep Fondop, keep Pett (the pivot has no replacement). Revisit in January |
+
+**Caveats**
+
+- **This breaks the 90% wage rule by about 1.35K.** Your call: the alternative is to sign nobody and stay inside the rule.
+- **The squad drops to 20** under Zegarra. If you want to keep depth, take **Moungam** (four sales, 21 players) or **Szappanos** (21 players). The game's real minimum squad size is unchecked.
+- **If the bill excludes loan wages** (check in step 0), room is about 2K larger. Zegarra would then need only Hill, Hammond and Scott-Morriss sold (bill about €13.9K, squad 22). Zegarra plus Szappanos would still not fit (about €16.2K).
+- **Do not sign** at these wages: Alaaeldin, Muntari, Đỗ Hoàng Hên, Barbarouses, or any 68 to 70 player (€6.7K to €11.5K each).
 
 ### Order B: in-game asks are about 5 to 10 times lower, near the squad's 500 to 750 scale
 
