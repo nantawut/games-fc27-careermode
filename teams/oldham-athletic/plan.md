@@ -44,6 +44,21 @@ Do these in order. Spend at most about **70% of the transfer budget**; each sign
 4. **Do not add central midfielders.** The squad already has 11 midfielders.
 5. Prefer **young high-POT players**, loans and free agents. Spend on a paid transfer only for a clear upgrade.
 
+## January window
+
+Window: **1 to 31 January**. Free agents for January cannot be named in advance: AI clubs sign players after the summer, and unsigned free agents can retire. The Futship list below covers only the first summer.
+
+1. **Before opening the window**, count the squad against the "two options per position" rule and list every slot that has dropped to one real option (injury, loss of form, sale).
+2. **Fill gaps from the first window first.** Order: striker, holding midfielder, wide midfielders, third goalkeeper, centre-back depth. Promotion is the objective, so a striker or holding midfielder outranks depth elsewhere.
+3. **On 1 January, get the in-game free-agent list** and send it for ranking against the squad, the wage cap and the position gaps.
+4. **Money:**
+   - Spend only what is left of the transfer budget, and keep part of it in reserve. The 70% cap applied to the first window only.
+   - Wages are the main constraint: Futship free-agent wages look far above Oldham's 500 to 750 scale (unverified unit), so assume each signing needs a sale first. The 90% wage cap is about €13.5K/week.
+5. **Sales** follow the standing rule: starters and high-POT players only at about 1.5x value or more with a replacement identified. Surplus non-starters are exempt.
+6. **Loans** end in June, so no current loan players remain in January.
+7. **Likely leftovers (unverified guess):** older (about 30 and over), high-wage players, which small AI budgets may skip. Check every name in game; any of them may have signed elsewhere or retired.
+8. **Do not panic-buy** in the last days. Sign by about 25 January so there is time to fix a failed deal before the 31 January close.
+
 ## Tactics
 
 - Shape: **4-2-3-1 Wide** (default, set 2026-11-25): a double pivot, a CAM, LM and RM behind a lone striker. The squad fit check is below; the formation is untested.
