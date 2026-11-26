@@ -259,27 +259,41 @@ details>*{display:block}
 </ul>
 
 <h2>Signing order (first window)</h2>
-<p>Built on 2026-11-26 from the Futship shortlists. Names, ages and values are community data; wages are unknown until you negotiate. Nothing here is verified in game.</p>
-<ul>
-<li><b>Free agents have no transfer fee.</b> The value column is market value, not a cost, so the 70% cap (about €840K) probably binds only on sign-on and agent fees. <b>Wages are the real constraint.</b></li>
-<li><b>Wage ledger:</b> the squad is about 200 over the 90% cap (€13.5K/week). Sell only after the replacement signs. All five sales free about 2,950 (about 2,750 of real room).</li>
-<li><b>Stop rule:</b> if a candidate's wage exceeds the wage freed by the paired sale, skip to the next name on the same line.</li>
-</ul>
+<p>Rewritten on 2026-11-26 using the Futship wages. Names, ages and values are community data. Which order applies depends on one in-game check (step 0). Nothing here is verified in game.</p>
+<h3>Order A: in-game asks are close to the Futship wages (the case to plan for)</h3>
+<p>The squad wage bill is about €13.7K against a €15K budget (90% cap €13.5K). Free agents cost no fee, so wages are the only real cost. At Futship wages the first window funds <b>about one signing</b>, not one per gap. The striker upgrade does not fit: the cheapest real upgrade, Sananta (ST 64), asks €4.4K.</p>
 <table>
-<tr><th>#</th><th>Step</th><th>First choice</th><th>Fallbacks</th><th>Pair with</th></tr>
-<tr><td>0</td><td>Fill the verify-in-game rows, hire staff, probe one cheap free agent's wage</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
-<tr><td>1</td><td><b>Striker</b></td><td>A. Alaaeldin, 33, 67/67</td><td>Muntari 66, Barbarouses 66, Sananta 64/68 if his wage fits</td><td>Sell Fondop (700)</td></tr>
-<tr><td>2</td><td><b>Second holding midfielder</b></td><td>Donga, 30, 65/65</td><td>Madibo 65, Nyengue 63/69, Lê Phạm Thành Long 63</td><td>Sell Pett (650)</td></tr>
-<tr><td>3</td><td><b>Winger</b></td><td>Oratmangoen (LM), 28, 65/65</td><td>Vilca 64, Reijnders 65/68, Đỗ Hoàng Hên 66</td><td>Sell Scott-Morriss (600), then Hill (500)</td></tr>
-<tr><td>4</td><td><b>Third goalkeeper</b></td><td>Einarsson, 31, 63/63</td><td>Argawinata 59, Nguyễn Filip 63, Córdova 63/73</td><td>Sell Hammond (500)</td></tr>
-<tr><td>5</td><td>Centre-back depth (optional)</td><td>Ridho, 24, 63/67</td><td>Hussein 58/70</td><td>Only if room is left</td></tr>
-<tr><td>6</td><td>Prospect (optional)</td><td>Matah, 19, 60/74, wage 500 or less</td><td>Nguyễn Đình Bắc 61/74</td><td>Only if room is left</td></tr>
+<tr><th>#</th><th>Step</th><th>Detail</th><th>Bill after</th></tr>
+<tr><td>0</td><td>Check in game</td><td>One free agent's real wage ask, the real wage bill, and whether transfer budget can be moved into wages (unverified)</td><td></td></tr>
+<tr><td>1</td><td>Sell surplus non-starters first</td><td>Hill (500), Hammond (500), Scott-Morriss (600). Frees 1,600</td><td>about €12.1K</td></tr>
+<tr><td>2</td><td><b>Sign one player</b></td><td>Recommended: D. Nyengue (CDM, 24, 63/69), €3.4K. Sell Pett (650) afterwards. Net +2,750</td><td>about €14.85K</td></tr>
+<tr><td>3</td><td>Alternative to step 2</td><td>Córdova (GK, 24, 63/73), €2K, then sell Wilson (500). Net +1,500</td><td>about €13.6K</td></tr>
+<tr><td>4</td><td>Other gaps</td><td>Current squad, loans and the January list. Do not sell Fondop: no striker replaces him</td><td></td></tr>
+</table>
+<table>
+<tr><th>Candidate</th><th>Wage</th><th>Paired sale</th><th>Net</th><th>Bill after</th><th>vs 90% cap</th><th>vs €15K budget</th></tr>
+<tr><td>Córdova (GK)</td><td>€2K</td><td>Wilson 500</td><td>+1.5K</td><td>13.6K</td><td>0.1K over</td><td>fits</td></tr>
+<tr><td>Nyengue (CDM)</td><td>€3.4K</td><td>Pett 650</td><td>+2.75K</td><td>14.85K</td><td>1.35K over</td><td>fits</td></tr>
+<tr><td>Ridho (CB)</td><td>€3.4K</td><td>none</td><td>+3.4K</td><td>15.5K</td><td>over</td><td>over</td></tr>
+<tr><td>Sananta (ST)</td><td>€4.4K</td><td>Fondop 700</td><td>+3.7K</td><td>15.8K</td><td>over</td><td>over</td></tr>
+<tr><td>Reijnders (LM)</td><td>€4.8K</td><td>none</td><td>+4.8K</td><td>16.9K</td><td>over</td><td>over</td></tr>
+<tr><td>Alaaeldin (ST)</td><td>€8K</td><td>Fondop 700</td><td>+7.3K</td><td>19.4K</td><td>over</td><td>over</td></tr>
 </table>
 <ul>
-<li>Steps 1 and 2 matter most: promotion needs the striker and the pivot. Do step 2 before step 3.</li>
-<li>Alaaeldin, Donga and Oratmangoen are one- or two-year fixes with no resale, a deliberate trade for the promotion target. Prefer a young alternative if the wage is similar.</li>
-<li>Do not sign Vélez, Xuân Son, Geria or Pedro Miguel: their shown wages (€6K to €11K) alone break the cap. Check pace on every attacker and winger.</li>
+<li><b>Decision for you:</b> Nyengue puts the wage bill at about 99% of the budget and breaks the 90% rule. Córdova stays within about 1% of the rule but adds no first-team strength (63 against Hudson's 65). I recommend Nyengue, but it is your call.</li>
+<li>The striker slot stays at Kavanagh (62). Matah (€2.1K) is a prospect, not an upgrade.</li>
+<li>Do not sign Alaaeldin, Muntari, Đỗ Hoàng Hên or Barbarouses at these wages (€5.2K to €8K each).</li>
 </ul>
+<h3>Order B: in-game asks are about 5 to 10 times lower, near the squad's 500 to 750 scale</h3>
+<table>
+<tr><th>#</th><th>Step</th><th>First choice</th><th>Fallbacks</th><th>Pair with</th></tr>
+<tr><td>1</td><td>Striker</td><td>A. Alaaeldin, 33, 67/67</td><td>Muntari 66, Barbarouses 66, Sananta 64/68</td><td>Sell Fondop</td></tr>
+<tr><td>2</td><td>Second holding midfielder</td><td>Donga, 30, 65/65</td><td>Madibo 65, Nyengue 63/69, Lê Phạm Thành Long 63</td><td>Sell Pett</td></tr>
+<tr><td>3</td><td>Winger</td><td>Oratmangoen (LM), 28, 65/65</td><td>Reijnders 65/68, Vilca 64, Đỗ Hoàng Hên 66</td><td>Sell Scott-Morriss, then Hill</td></tr>
+<tr><td>4</td><td>Third goalkeeper</td><td>Córdova, 24, 63/73</td><td>Einarsson 63, Argawinata 59</td><td>Sell Hammond</td></tr>
+<tr><td>5</td><td>Centre-back depth (optional)</td><td>Ridho, 24, 63/67</td><td>Hussein 58/70</td><td>Only if room is left</td></tr>
+<tr><td>6</td><td>Prospect (optional)</td><td>Matah, 19, 60/74</td><td>Nguyễn Đình Bắc 61/74</td><td>Only if room is left</td></tr>
+</table>
 
 <h3>Wage check on the signing order (2026-11-26)</h3>
 <p>I read the Futship profile page for the first choices with a table row. The page prints the wage in euros with no period. Only these four were checked; fallbacks and other names were not.</p>
