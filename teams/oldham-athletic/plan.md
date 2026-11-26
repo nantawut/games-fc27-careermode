@@ -142,6 +142,57 @@ I read the Futship profile page for each first choice that has a table row. The 
 - **Cheapest full set for steps 1 to 4** (Sananta, Nyengue, Vilca, Córdova) is about €14.4K at face value, roughly the whole wage budget. If in-game asks match Futship, the plan cannot sign a player for every gap. Pick the one or two that matter most (striker and holding midfielder) and fill the rest with loans or the current squad.
 - **Contracts:** Vilca and Hussein run to 2026, which looks short for a summer signing; check in game.
 
+#### Remaining shortlist wages (Futship profile check)
+
+Checked 2026-11-26. All 36 profiles print a wage in euros with no period. Ages and contracts as printed.
+
+| Slot | Player | Age | Wage | Contract |
+|---|---|---|---|---|
+| ST | Nguyễn Tiến Linh 64 | 28 | €5.1K | 2030 |
+| ST | T. Yengi 62/67 | 25 | €3.9K | 2027 |
+| ST | Phạm Gia Hưng 61/64 | 26 | €3.6K | 2029 |
+| ST | E. Lalrindika 60/61 | 27 | €2.9K | 2028 |
+| ST | J. Bolívar 68/75 | 24 | €7.7K | 2028 |
+| ST | D. Lukács 69 | 30 | €10K | 2028 |
+| ST | J. Vidales 70 | 34 | €11.5K | 2026 |
+| ST | F. Mayele 70 | 32 | €11.5K | 2027 |
+| GK | E. Lako 60/63 | 26 | €1.6K | 2030 |
+| GK | P. Szappanos 67 | 35 | €2.8K | 2028 |
+| GK | A. Duarte 66 | 32 | €3.9K | 2028 |
+| CB | E. Moungam 64/73 | 20 | €3.2K | 2029 |
+| CB | T. Smith 64 | 36 | €3.4K | 2026 |
+| CB | N. Mason 64 | 29 | €4.6K | 2031 |
+| CB | Bùi Tiến Dũng 66 | 30 | €6K | 2029 |
+| LB | Phan Tuấn Tài 62/65 | 25 | €3.4K | 2031 |
+| LB | Nguyễn Văn Vĩ 62 | 28 | €3.7K | 2029 |
+| LB | R. Mahuta 64/70 | 23 | €3.8K | 2029 |
+| LB | S. Pattynama 65/66 | 27 | €4.8K | 2030 |
+| LB | Y. Nagatomo 68 | 39 | €6.7K | 2030 |
+| LB | R. Brady 68 | 34 | €8.1K | 2026 |
+| RB | A. Al Oui 60/71 | 21 | €1.9K | 2029 |
+| RB | Phạm Xuân Mạnh 62 | 30 | €3.7K | 2029 |
+| RB | Vũ Văn Thanh 66 | 30 | €6K | 2029 |
+| CDM | J. Gaber 63/72 | 24 | €3.4K | 2031 |
+| CDM | A. Fathi 67/68 | 33 | €7K | 2031 |
+| CAM/CM | M. Al Mannai 60/67 | 22 | €2.4K | 2029 |
+| CAM/CM | R. Kambuaya 63 | 30 | €4.4K | 2029 |
+| CAM/CM | Nguyễn Hoàng Đức 65 | 28 | €5.2K | 2029 |
+| CAM/CM | S. Lilipaly 66 | 36 | €4.8K | 2030 |
+| CAM/CM | G. Sigurðsson 69 | 36 | €7.1K | 2029 |
+| CAM/CM | G. Kakuta 70 | 35 | €8.1K | 2029 |
+| Wide | B. Putra 60/65 | 24 | €2.5K | 2028 |
+| Wide | M. Zegarra (LW) 65/78 | 19 | €3.8K | 2029 |
+| Wide | Al Haydos (RM) 70 | 35 | €7.9K | 2029 |
+| Wide | L. González (RW) 70 | 35 | €8.6K | 2026 |
+
+- **Wages rise with rating, not with age or resale.** Nothing rated 65 or more asks under about €3.8K, and the 68 to 70 players ask €6.7K to €11.5K. At Futship wages no big upgrade is affordable.
+- **Zegarra (LW, 19, 65/78) is the best find.** He asks €3.8K, less than Reijnders (€4.8K) and Vilca (€4.6K), is +3 on Stevens and Drummond (62), and has very high resale. After selling Hill, Hammond, Scott-Morriss and Hawkes the bill is about 11.55K, so he takes it to about 15.35K, about 0.35K over the budget. One more surplus sale (Payne, 500) brings it to about 14.85K, the same as Nyengue.
+- **Moungam (CB, 20, 64/73) at €3.2K** beats Ridho (63/67 at €3.4K) and Daniels (62) and has resale.
+- **Szappanos (GK, 35, 67) at €2.8K** would beat Hudson (65) for less than Einarsson. He is 35, so it is a short-term fix. Selling Wilson (500) makes the net +2.3K, giving a bill of about 14.4K.
+- **Striker:** the cheapest upgrade is still Sananta (€4.4K). The 68 to 70 strikers cost €7.7K to €11.5K, so the striker slot cannot be upgraded at these wages.
+- **Contracts ending 2026** (Vidales, Smith, Brady, González, Vilca, Hussein) look short; check in game.
+- **Effect on Order A:** Zegarra and Moungam are better value than the current picks (Nyengue and Ridho), and Szappanos is a better goalkeeper fix than Córdova if you want a first-team upgrade. I have not changed Order A; say if you want it redone with them.
+
 ## January window
 
 Window: **1 to 31 January**. Free agents for January cannot be named in advance: AI clubs sign players after the summer, and unsigned free agents can retire. The Futship list below covers only the first summer.
