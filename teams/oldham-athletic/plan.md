@@ -205,14 +205,17 @@ Checked 2026-11-26. All 36 profiles print a wage in euros with no period. Ages a
 
 Window: **1 to 31 January**. Free agents for January cannot be named in advance: AI clubs sign players after the summer, and unsigned free agents can retire. The Futship list below covers only the first summer.
 
-1. **Before opening the window**, count the squad against the "two options per position" rule and list every slot that has dropped to one real option (injury, loss of form, sale).
-2. **Fill gaps from the first window first.** Order: striker, holding midfielder, wide midfielders, third goalkeeper, centre-back depth. Promotion is the objective, so a striker or holding midfielder outranks depth elsewhere.
-3. **On 1 January, get the in-game free-agent list** and send it for ranking against the squad, the wage cap and the position gaps.
+Two worksheets are ready for this window: `january-prep.md` (carry-over from the summer, squad audit, money snapshot, ranking rules, timeline) and `january-capture.md` (the free-agent capture sheet, one table per position with the summer watch-list names). Fill both in game and send them back for ranking.
+
+1. **Before opening the window**, fill `january-prep.md` sections 0 to 2: record what the summer Zegarra order actually did (see Order A in the Signing order section), count the squad against the "two options per position" rule and list every slot that has dropped to one real option (injury, loss of form, sale).
+2. **Fill the gaps the summer order left, in this order:** CAM / central midfield cover, right-back, wide cover, striker, holding midfielder, goalkeeper, centre-back. The first three are thin because the Zegarra order sells Hill, Hammond, Scott-Morriss, Hawkes and Payne. A slot with one real option comes before an upgrade of a slot with two; then promotion order (striker and holding midfielder outrank depth).
+3. **On 1 January, fill `january-capture.md`.** Search Free Agents by position, sorted by wage, mark which watch-list names are still free, and record the wage the game asks (not market value), pace, contract and Growth Profile. If time is short, send the first four positions first.
 4. **Money:**
    - Spend only what is left of the transfer budget, and keep part of it in reserve. The 70% cap applied to the first window only.
-   - Wages are the main constraint: Futship free-agent wages look far above Oldham's 500 to 750 scale (unverified unit), so assume each signing needs a sale first. The 90% wage cap is about €13.5K/week.
+   - Wages are the main constraint: Futship free-agent wages are far above Oldham's 500 to 750 scale (unverified unit). After the Zegarra order the wage bill is expected to be about €14.85K against the €15K budget, so room is almost nil: assume each signing needs a sale of about the same wage first. The 90% cap (€13.5K/week) is already broken by that order, by decision.
+   - The squad is expected to be at about 20 players after the Zegarra order, below the plan's floor of 22. A January signing is also a way to rebuild depth.
 5. **Sales** follow the standing rule: starters and high-POT players only at about 1.5x value or more with a replacement identified. Surplus non-starters are exempt.
-6. **Loans** end in June, so no current loan players remain in January.
+6. **Loans** end in June (the end of season 1), so the four loan players (Delaney, Tahir, Appiah-Forson, Fawunmi) are still in the squad in January. Count them in the audit, but do not build on them past June.
 7. **Likely leftovers (unverified guess):** older (about 30 and over), high-wage players, which small AI budgets may skip. Check every name in game; any of them may have signed elsewhere or retired.
 8. **Do not panic-buy** in the last days. Sign by about 25 January so there is time to fix a failed deal before the 31 January close.
 
