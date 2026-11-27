@@ -13,3 +13,4 @@
 - **Director of Football**: staff role that can negotiate transfers for the manager.
 - **Mid-block**: a compact defensive shape that sits deep-ish and counters on turnover.
 - **Team folder**: a folder under `teams/<team-slug>/` holding one team's profile, squad and research. Our own team's folder also holds the plan and report.
+- **Capture sheet**: the worksheet `teams/<team-slug>/january-capture.md`, filled in game on 1 January. It records each free agent's age, OVR/POT, pace, the wage the game asks (not market value), contract and Growth Profile, one table per position, so the list can be ranked against the squad and wage room.
